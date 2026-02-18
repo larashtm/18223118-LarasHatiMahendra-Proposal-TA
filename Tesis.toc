@@ -3,7 +3,7 @@
 \renewcommand {\cftchapfont }{\normalfont }
 \renewcommand {\cftchappagefont }{\normalfont }
 \contentsline {chapter}{LEMBAR PENGESAHAN}{iii}{chapter*.2}%
-\contentsline {chapter}{LEMBAR PERNYATAAN}{v}{chapter*.3}%
+\contentsline {chapter}{PERNYATAAN ORISINALITAS}{v}{chapter*.3}%
 \contentsline {chapter}{PERNYATAAN PENGGUNAAN AI}{vii}{chapter*.4}%
 \contentsline {chapter}{ABSTRAK}{ix}{chapter*.6}%
 \contentsline {chapter}{KATA PENGANTAR}{xi}{chapter*.7}%

@@ -2,8 +2,7 @@
 % 
 % Versi 1.1
 %
-% Template Tugas Akhir 
-% Program Studi Sistem dan Teknologi Informasi
+% Template Tesis untuk Program Magister Informatika
 % Sekolah Teknik Elektro dan Informatika
 % Institut Teknologi Bandung
 % 
@@ -65,7 +64,7 @@
 %   https://ctan.org/pkg/biblatex-chicago
 % - Untuk referensi lebih lanjut tentang penggunaan XeLaTeX dan fontspec, silakan merujuk ke dokumentasi resmi fontspec.
 %   https://ctan.org/pkg/fontspec
-% - Selamat menyusun dokumen tugas akhir Anda!
+% - Selamat menyusun dokumen tesis Anda!
 %
 \documentclass[12pt,a4paper]{book}
 
@@ -169,12 +168,12 @@
 %\cftsetrmarg{4em}  % agar judul subbab tidak mepet ke nomor halaman di daftar isi (optional)
 % -- Atur indentasi judul bab, subbab, dan subsubbab di daftar isi ---
 \setlength{\cftchapindent}{0em}
-\setlength{\cftchapnumwidth}{1.8em}
-\setlength{\cftsecindent}{1.8em}
-\setlength{\cftsecnumwidth}{2.4em}
-\setlength{\cftsubsecindent}{4.2em}
-\setlength{\cftsubsecnumwidth}{2.8em}
-\setlength{\cftsubsubsecindent}{7.0em}
+\setlength{\cftchapnumwidth}{2.2em}
+\setlength{\cftsecindent}{2.2em}
+\setlength{\cftsecnumwidth}{2.8em}
+\setlength{\cftsubsecindent}{5.0em} % cftsubsecindent = cftsecindent + cftsecnumwidth, agar nomor subbab sejajar dengan nomor bab di daftar isi
+\setlength{\cftsubsecnumwidth}{3.2em}
+\setlength{\cftsubsubsecindent}{8.2em}
 \setlength{\cftsubsubsecnumwidth}{3.2em}
 
 % --- Ubah nama bulan ke Bahasa Indonesia ---
@@ -367,16 +366,17 @@
 
 \input{Bab II - Studi.tex}
 
-\input{Bab III - Analisis.tex}
+\input{Bab III - Metodologi.tex}
 
-\input{Bab IV - Perancangan.tex}
+\input{Bab IV - Analisis.tex}
 
-\input{Bab V - Implementasi.tex}
+\input{Bab V - Desain.tex}
 
-\input{Bab VI - Evaluasi.tex}
+\input{Bab VI - Implementasi.tex}
 
-\input{Bab VII - Penutup.tex}
+\input{Bab VII - Evaluasi.tex}
 
+\input{Bab VIII - Penutup.tex}
 
 
 % ==========================================

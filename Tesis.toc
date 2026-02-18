@@ -4,15 +4,16 @@
 \renewcommand {\cftchappagefont }{\normalfont }
 \contentsline {chapter}{LEMBAR PENGESAHAN}{iii}{chapter*.2}%
 \contentsline {chapter}{LEMBAR PERNYATAAN}{v}{chapter*.3}%
-\contentsline {chapter}{ABSTRAK}{vii}{chapter*.4}%
-\contentsline {chapter}{KATA PENGANTAR}{ix}{chapter*.5}%
-\contentsline {chapter}{DAFTAR ISI}{xi}{chapter*.5}%
-\contentsline {chapter}{DAFTAR GAMBAR}{xiii}{chapter*.5}%
-\contentsline {chapter}{DAFTAR TABEL}{xv}{chapter*.5}%
-\contentsline {chapter}{DAFTAR ALGORITMA}{xvii}{chapter*.6}%
-\contentsline {chapter}{DAFTAR KODE PROGRAM}{xix}{chapter*.7}%
-\contentsline {chapter}{DAFTAR SINGKATAN}{xxi}{chapter*.7}%
-\contentsline {chapter}{DAFTAR SIMBOL}{xxiii}{table.0.1}%
+\contentsline {chapter}{PERNYATAAN PENGGUNAAN AI}{vii}{chapter*.4}%
+\contentsline {chapter}{ABSTRAK}{ix}{chapter*.6}%
+\contentsline {chapter}{KATA PENGANTAR}{xi}{chapter*.7}%
+\contentsline {chapter}{DAFTAR ISI}{xiii}{chapter*.7}%
+\contentsline {chapter}{DAFTAR GAMBAR}{xv}{chapter*.7}%
+\contentsline {chapter}{DAFTAR TABEL}{xvii}{chapter*.7}%
+\contentsline {chapter}{DAFTAR ALGORITMA}{xix}{chapter*.8}%
+\contentsline {chapter}{DAFTAR KODE PROGRAM}{xxi}{chapter*.9}%
+\contentsline {chapter}{DAFTAR SINGKATAN}{xxiii}{chapter*.9}%
+\contentsline {chapter}{DAFTAR SIMBOL}{xxv}{table.0.1}%
 \setlength {\cftbeforechapskip }{10pt}
 \renewcommand {\cftchapfont }{\bfseries }
 \renewcommand {\cftchappagefont }{\bfseries }

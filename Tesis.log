@@ -1,4 +1,4 @@
-This is XeTeX, Version 3.141592653-2.6-0.999997 (TeX Live 2025) (preloaded format=xelatex 2026.1.21)  18 FEB 2026 17:50
+This is XeTeX, Version 3.141592653-2.6-0.999997 (TeX Live 2025) (preloaded format=xelatex 2026.1.21)  18 FEB 2026 20:12
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -883,7 +883,7 @@ Package csquotes Warning: No style for language 'indonesian'.
 Package csquotes Info: Redefining alias 'default' -> 'fallback'.
 (./Tesis.aux (/usr/local/texlive/2025/texmf-dist/tex/generic/babel/locale/en/babel-english.tex)
 Package babel Info: Importing data for english
-(babel)             from babel-en.ini. Reported on input line 56.
+(babel)             from babel-en.ini. Reported on input line 57.
 )
 \openout1 = `Tesis.aux'.
 
@@ -1101,11 +1101,53 @@ File: umsb.fd 2013/01/14 v3.01 AMS symbols B
 File: mt-msb.cfg 2005/06/01 v1.0 microtype config. file: AMS symbols (b) (RS)
 ) (/usr/local/texlive/2025/texmf-dist/tex/latex/microtype/mt-cmr.cfg
 File: mt-cmr.cfg 2013/05/19 v2.2 microtype config. file: Computer Modern Roman (RS)
-)) (./4 Abstrak.tex [5] [6
+)) (./3a Pernyataan Penggunaan AI.tex [5] [6
 
-]) (./5 Kata Pengantar.tex [7] [8
+]
+Overfull \hbox (3.43965pt too wide) in paragraph at lines 7--7
+[]|\TU/TimesNewRoman(0)/b/n/12 No.| 
+ []
 
-]) [9]
+
+Underfull \hbox (badness 3291) in paragraph at lines 11--11
+[]|\TU/TimesNewRoman(0)/m/n/12 Microsoft Co-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 15--15
+[]|\TU/TimesNewRoman(0)/m/n/12 Pencarian informasi
+ []
+
+
+Underfull \hbox (badness 2269) in paragraph at lines 19--19
+[]|\TU/TimesNewRoman(0)/m/n/12 Penyusunan kode pro-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 21--21
+[]|\TU/TimesNewRoman(0)/m/n/12 Penyusunan formula
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 27--27
+[]|\TU/TimesNewRoman(0)/m/n/12 Penyusunan kesimpul-
+ []
+
+
+Overfull \hbox (13.72078pt too wide) in paragraph at lines 5--30
+ [][] 
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 33--35
+
+ []
+
+) (./4 Abstrak.tex [7] [8
+
+]) (./5 Kata Pengantar.tex [9] [10
+
+]) [11]
 
 Package geometry Warning: `a4paper': not available in `\newgeometry'; skipped.
 
@@ -1141,20 +1183,20 @@ Package geometry Warning: `a4paper': not available in `\newgeometry'; skipped.
 * \@reversemarginfalse
 * (1in=72.27pt=25.4mm, 1cm=28.453pt)
 
-(./6 Daftar Isi.tex [10
+(./6 Daftar Isi.tex [12
 
 
-] (./Tesis.toc [11])
+] (./Tesis.toc [13])
 \tf@toc=\write5
 \openout5 = `Tesis.toc'.
 
-) (./8 Daftar Gambar.tex [12] (./Tesis.lof)
+) (./8 Daftar Gambar.tex [14] (./Tesis.lof)
 \tf@lof=\write6
 \openout6 = `Tesis.lof'.
 
-) (./9 Daftar Tabel.tex [13
+) (./9 Daftar Tabel.tex [15
 
-] [14
+] [16
 
 ] (./Tesis.lot
 Package microtype Info: Loading generic protrusion settings for font family
@@ -1170,38 +1212,38 @@ Overfull \hbox (58.8302pt too wide) in paragraph at lines 14--14
 \tf@lot=\write7
 \openout7 = `Tesis.lot'.
 
-) (./10 Daftar Algoritma.tex [15] [16
+) (./10 Daftar Algoritma.tex [17] [18
 
 ] (./Tesis.loa)
 \tf@loa=\write8
 \openout8 = `Tesis.loa'.
 
-) (./11 Daftar Listing.tex [17
+) (./11 Daftar Listing.tex [19
 
-] [18
+] [20
 
 ] (./Tesis.lol)
 \tf@lol=\write9
 \openout9 = `Tesis.lol'.
 
-) (./12 Daftar Singkatan.tex [19
+) (./12 Daftar Singkatan.tex [21
 
-] [20
+] [22
 
 ]
 Overfull \hbox (2.66713pt too wide) in alignment at lines 15--27
  [] [] [] 
  []
 
-) (./13 Daftar Simbol.tex [21] [22
+) (./13 Daftar Simbol.tex [23] [24
 
 ]
 Overfull \hbox (16.93071pt too wide) in alignment at lines 15--104
  [] [] [] 
  []
 
-./13 Daftar Simbol.tex:104: ignored error: Infinite glue shrinkage found in box being split [23]
-./13 Daftar Simbol.tex:104: ignored error: Infinite glue shrinkage found in box being split [24]) [25] [26
+./13 Daftar Simbol.tex:104: ignored error: Infinite glue shrinkage found in box being split [25]
+./13 Daftar Simbol.tex:104: ignored error: Infinite glue shrinkage found in box being split [26]) [27] [28
 
 ] (./Bab I - Pendahuluan.tex
 Bab I.
@@ -1317,7 +1359,7 @@ Bab VIII.
 ] [34
 
 ]
-Overfull \hbox (4.9412pt too wide) in paragraph at lines 386--386
+Overfull \hbox (4.9412pt too wide) in paragraph at lines 387--387
 [][]\TU/TimesNewRoman(0)/m/n/12 Laudon, Kenneth C., dan Jane P. Laudon. 2020. \TU/TimesNewRoman(0)/m/it/12 Sistem Informasi Manajemen. \TU/TimesNewRoman(0)/m/n/12 Jakarta:
  []
 
@@ -1346,18 +1388,18 @@ L3 programming layer <2026-01-10>
 LaTeX Warning: There were undefined references.
 
 Package rerunfilecheck Info: File `Tesis.out' has not changed.
-(rerunfilecheck)             Checksum: 0136B0D59EDF765F9412A6A7955F5239;11887.
+(rerunfilecheck)             Checksum: 2C09751A5653EE2478CC5B764DB4B187;12058.
 Package logreq Info: Writing requests to 'Tesis.run.xml'.
 \openout1 = `Tesis.run.xml'.
 
  ) 
 Here is how much of TeX's memory you used:
- 34741 strings out of 468173
- 678759 string characters out of 5433131
- 2230300 words of memory out of 5000000
- 62979 multiletter control sequences out of 15000+600000
+ 34747 strings out of 468173
+ 678968 string characters out of 5433131
+ 2230493 words of memory out of 5000000
+ 62982 multiletter control sequences out of 15000+600000
  634673 words of font info for 98 fonts, out of 8000000 for 9000
  1348 hyphenation exceptions out of 8191
  73i,14n,95p,1246b,6745s stack positions out of 10000i,1000n,20000p,200000b,200000s
 
-Output written on Tesis.pdf (66 pages).
+Output written on Tesis.pdf (68 pages).

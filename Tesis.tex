@@ -102,6 +102,7 @@
 \usepackage{xcolor} % for color definitions
 \usepackage[title,titletoc]{appendix} % for appendix management
 \usepackage{csquotes} % for context-sensitive quotation facilities
+\usepackage{etoolbox}
 
 \setmainfont{Times New Roman} % set main font to Times New Roman
 \onehalfspacing % spasi 1.5
@@ -168,13 +169,13 @@
 %\cftsetrmarg{4em}  % agar judul subbab tidak mepet ke nomor halaman di daftar isi (optional)
 % -- Atur indentasi judul bab, subbab, dan subsubbab di daftar isi ---
 \setlength{\cftchapindent}{0em}
-\setlength{\cftchapnumwidth}{2.2em}
-\setlength{\cftsecindent}{2.2em}
-\setlength{\cftsecnumwidth}{2.8em}
-\setlength{\cftsubsecindent}{5.0em} % cftsubsecindent = cftsecindent + cftsecnumwidth, agar nomor subbab sejajar dengan nomor bab di daftar isi
-\setlength{\cftsubsecnumwidth}{3.2em}
-\setlength{\cftsubsubsecindent}{8.2em}
-\setlength{\cftsubsubsecnumwidth}{3.2em}
+\setlength{\cftchapnumwidth}{4.4em}
+\setlength{\cftsecindent}{1.6em} % 2.2
+\setlength{\cftsecnumwidth}{2.8em} % 2.8
+\setlength{\cftsubsecindent}{4.4em} % 5 cftsubsecindent = cftsecindent + cftsecnumwidth, agar nomor subbab sejajar dengan nomor bab di daftar isi
+\setlength{\cftsubsecnumwidth}{3.2em} % 3.2
+\setlength{\cftsubsubsecindent}{7.6em} % 8.2
+\setlength{\cftsubsubsecnumwidth}{3.2em} % 3.2
 
 % --- Ubah nama bulan ke Bahasa Indonesia ---
 \renewcommand*{\DTMbahasaimonthname}[1]{%
@@ -305,6 +306,11 @@
 \setlist[enumerate]{nosep, topsep=-10pt} % mengurangi spasi antar item dan atas bawah daftar
 \setlist[itemize]{nosep, topsep=-10pt} % mengurangi spasi antar item dan atas bawah daftar
 
+\renewcommand{\cftchappresnum}{BAB~}
+\settowidth{\cftchapnumwidth}{BAB~12\quad}
+
+
+
 % ==========================================
 % AWAL DOKUMEN
 % ==========================================
@@ -319,6 +325,8 @@
 \addtocontents{toc}{\protect\renewcommand{\protect\cftchapfont}{\protect\normalfont}}
 \addtocontents{toc}{\protect\renewcommand{\protect\cftchappagefont}{\protect\normalfont}}
 \renewcommand{\cftchapleader}{\cftdotfill{\cftchapdotsep}}
+
+
 % ==========================================
 
 \input{1 Halaman Judul.tex}
@@ -390,12 +398,16 @@
 % LAMPIRAN (optional)
 % ==========================================
 \appendix
-
+%\renewcommand{\cftchappresnum}{}%
+%\settowidth{\cftchapnumwidth}{A\quad}
 % Uncomment baris di bawah ini jika ada lampiran
 \begin{appendices}
   %\makeatletter 
   %\renewcommand{\thechapter}{\@Alph\c@chapter} 
   %\makeatother
+\addtocontents{toc}{\protect\renewcommand{\protect\cftchappresnum}{}}
+\addtocontents{toc}{\protect\settowidth{\protect\cftchapnumwidth}{A\quad}}
+
 \input{Lampiran-A.tex}
 \input{Lampiran-B.tex}
 \end{appendices}

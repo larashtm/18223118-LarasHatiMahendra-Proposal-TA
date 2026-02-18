@@ -90,6 +90,8 @@
 \babel@toc {indonesian}{}\relax 
 \babel@toc {english}{}\relax 
 \babel@toc {indonesian}{}\relax 
+\renewcommand {\cftchappresnum }{}
+\settowidth {\cftchapnumwidth }{A\hskip 1em\relax }
 \contentsline {chapter}{Lampiran \numberline {A}\textit {SOURCE CODE}}{37}{appendix.1.A}%
 \contentsline {section}{\numberline {A.1}Perangkat Lunak untuk Akuisisi Data dari Sensor Ultrasonik}{37}{section.1.A.1}%
 \contentsline {section}{\numberline {A.2}Perangkat Lunak untuk Pengolahan Data Akuisisi dan Visualisasi Hasil Pengukuran Jarak}{38}{section.1.A.2}%

@@ -1,4 +1,4 @@
-This is XeTeX, Version 3.141592653-2.6-0.999997 (TeX Live 2025) (preloaded format=xelatex 2026.1.21)  18 FEB 2026 20:17
+This is XeTeX, Version 3.141592653-2.6-0.999997 (TeX Live 2025) (preloaded format=xelatex 2026.1.21)  18 FEB 2026 22:13
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -868,7 +868,7 @@ Package biblatex Info: ... and expl3
  (/usr/local/texlive/2025/texmf-dist/tex/latex/biblatex/blx-case-expl3.sty
 Package: blx-case-expl3 2025/07/10 v3.21 expl3 case changing code for biblatex
 )))
-Package hyperref Info: Option `colorlinks' set `true' on input line 150.
+Package hyperref Info: Option `colorlinks' set `true' on input line 151.
  (/usr/local/texlive/2025/texmf-dist/tex/latex/listings/lstlang1.sty
 File: lstlang1.sty 2025/11/14 1.11b listings language file
 )
@@ -878,7 +878,7 @@ Package csquotes Info: Adjusting default style.
 
 
 Package csquotes Warning: No style for language 'indonesian'.
-(csquotes)                Using fallback style on input line 311.
+(csquotes)                Using fallback style on input line 317.
 
 Package csquotes Info: Redefining alias 'default' -> 'fallback'.
 (./Tesis.aux (/usr/local/texlive/2025/texmf-dist/tex/generic/babel/locale/en/babel-english.tex)
@@ -887,26 +887,26 @@ Package babel Info: Importing data for english
 )
 \openout1 = `Tesis.aux'.
 
-LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 311.
-LaTeX Font Info:    ... okay on input line 311.
-LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 311.
-LaTeX Font Info:    ... okay on input line 311.
-LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 311.
-LaTeX Font Info:    ... okay on input line 311.
-LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 311.
-LaTeX Font Info:    ... okay on input line 311.
-LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 311.
-LaTeX Font Info:    ... okay on input line 311.
-LaTeX Font Info:    Checking defaults for TU/lmr/m/n on input line 311.
-LaTeX Font Info:    ... okay on input line 311.
-LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 311.
-LaTeX Font Info:    ... okay on input line 311.
-LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 311.
-LaTeX Font Info:    ... okay on input line 311.
-LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 311.
-LaTeX Font Info:    ... okay on input line 311.
-LaTeX Font Info:    Checking defaults for PU/pdf/m/n on input line 311.
-LaTeX Font Info:    ... okay on input line 311.
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 317.
+LaTeX Font Info:    ... okay on input line 317.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 317.
+LaTeX Font Info:    ... okay on input line 317.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 317.
+LaTeX Font Info:    ... okay on input line 317.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 317.
+LaTeX Font Info:    ... okay on input line 317.
+LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 317.
+LaTeX Font Info:    ... okay on input line 317.
+LaTeX Font Info:    Checking defaults for TU/lmr/m/n on input line 317.
+LaTeX Font Info:    ... okay on input line 317.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 317.
+LaTeX Font Info:    ... okay on input line 317.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 317.
+LaTeX Font Info:    ... okay on input line 317.
+LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 317.
+LaTeX Font Info:    ... okay on input line 317.
+LaTeX Font Info:    Checking defaults for PU/pdf/m/n on input line 317.
+LaTeX Font Info:    ... okay on input line 317.
 
 Package fontspec Info: 
 (fontspec)             Adjusting the maths setup (use [no-math] to avoid
@@ -914,56 +914,56 @@ Package fontspec Info:
 
 \symlegacymaths=\mathgroup6
 LaTeX Font Info:    Overwriting symbol font `legacymaths' in version `bold'
-(Font)                  OT1/cmr/m/n --> OT1/cmr/bx/n on input line 311.
-LaTeX Font Info:    Redeclaring math accent \acute on input line 311.
-LaTeX Font Info:    Redeclaring math accent \grave on input line 311.
-LaTeX Font Info:    Redeclaring math accent \ddot on input line 311.
-LaTeX Font Info:    Redeclaring math accent \tilde on input line 311.
-LaTeX Font Info:    Redeclaring math accent \bar on input line 311.
-LaTeX Font Info:    Redeclaring math accent \breve on input line 311.
-LaTeX Font Info:    Redeclaring math accent \check on input line 311.
-LaTeX Font Info:    Redeclaring math accent \hat on input line 311.
-LaTeX Font Info:    Redeclaring math accent \dot on input line 311.
-LaTeX Font Info:    Redeclaring math accent \mathring on input line 311.
-LaTeX Font Info:    Redeclaring math symbol \Gamma on input line 311.
-LaTeX Font Info:    Redeclaring math symbol \Delta on input line 311.
-LaTeX Font Info:    Redeclaring math symbol \Theta on input line 311.
-LaTeX Font Info:    Redeclaring math symbol \Lambda on input line 311.
-LaTeX Font Info:    Redeclaring math symbol \Xi on input line 311.
-LaTeX Font Info:    Redeclaring math symbol \Pi on input line 311.
-LaTeX Font Info:    Redeclaring math symbol \Sigma on input line 311.
-LaTeX Font Info:    Redeclaring math symbol \Upsilon on input line 311.
-LaTeX Font Info:    Redeclaring math symbol \Phi on input line 311.
-LaTeX Font Info:    Redeclaring math symbol \Psi on input line 311.
-LaTeX Font Info:    Redeclaring math symbol \Omega on input line 311.
-LaTeX Font Info:    Redeclaring math symbol \mathdollar on input line 311.
-LaTeX Font Info:    Redeclaring symbol font `operators' on input line 311.
+(Font)                  OT1/cmr/m/n --> OT1/cmr/bx/n on input line 317.
+LaTeX Font Info:    Redeclaring math accent \acute on input line 317.
+LaTeX Font Info:    Redeclaring math accent \grave on input line 317.
+LaTeX Font Info:    Redeclaring math accent \ddot on input line 317.
+LaTeX Font Info:    Redeclaring math accent \tilde on input line 317.
+LaTeX Font Info:    Redeclaring math accent \bar on input line 317.
+LaTeX Font Info:    Redeclaring math accent \breve on input line 317.
+LaTeX Font Info:    Redeclaring math accent \check on input line 317.
+LaTeX Font Info:    Redeclaring math accent \hat on input line 317.
+LaTeX Font Info:    Redeclaring math accent \dot on input line 317.
+LaTeX Font Info:    Redeclaring math accent \mathring on input line 317.
+LaTeX Font Info:    Redeclaring math symbol \Gamma on input line 317.
+LaTeX Font Info:    Redeclaring math symbol \Delta on input line 317.
+LaTeX Font Info:    Redeclaring math symbol \Theta on input line 317.
+LaTeX Font Info:    Redeclaring math symbol \Lambda on input line 317.
+LaTeX Font Info:    Redeclaring math symbol \Xi on input line 317.
+LaTeX Font Info:    Redeclaring math symbol \Pi on input line 317.
+LaTeX Font Info:    Redeclaring math symbol \Sigma on input line 317.
+LaTeX Font Info:    Redeclaring math symbol \Upsilon on input line 317.
+LaTeX Font Info:    Redeclaring math symbol \Phi on input line 317.
+LaTeX Font Info:    Redeclaring math symbol \Psi on input line 317.
+LaTeX Font Info:    Redeclaring math symbol \Omega on input line 317.
+LaTeX Font Info:    Redeclaring math symbol \mathdollar on input line 317.
+LaTeX Font Info:    Redeclaring symbol font `operators' on input line 317.
 LaTeX Font Info:    Encoding `OT1' has changed to `TU' for symbol font
-(Font)              `operators' in the math version `normal' on input line 311.
+(Font)              `operators' in the math version `normal' on input line 317.
 LaTeX Font Info:    Overwriting symbol font `operators' in version `normal'
-(Font)                  OT1/cmr/m/n --> TU/TimesNewRoman(0)/m/n on input line 311.
+(Font)                  OT1/cmr/m/n --> TU/TimesNewRoman(0)/m/n on input line 317.
 LaTeX Font Info:    Encoding `OT1' has changed to `TU' for symbol font
-(Font)              `operators' in the math version `bold' on input line 311.
+(Font)              `operators' in the math version `bold' on input line 317.
 LaTeX Font Info:    Overwriting symbol font `operators' in version `bold'
-(Font)                  OT1/cmr/bx/n --> TU/TimesNewRoman(0)/m/n on input line 311.
+(Font)                  OT1/cmr/bx/n --> TU/TimesNewRoman(0)/m/n on input line 317.
 LaTeX Font Info:    Overwriting symbol font `operators' in version `normal'
-(Font)                  TU/TimesNewRoman(0)/m/n --> TU/TimesNewRoman(0)/m/n on input line 311.
+(Font)                  TU/TimesNewRoman(0)/m/n --> TU/TimesNewRoman(0)/m/n on input line 317.
 LaTeX Font Info:    Overwriting math alphabet `\mathit' in version `normal'
-(Font)                  OT1/cmr/m/it --> TU/TimesNewRoman(0)/m/it on input line 311.
+(Font)                  OT1/cmr/m/it --> TU/TimesNewRoman(0)/m/it on input line 317.
 LaTeX Font Info:    Overwriting math alphabet `\mathbf' in version `normal'
-(Font)                  OT1/cmr/bx/n --> TU/TimesNewRoman(0)/b/n on input line 311.
+(Font)                  OT1/cmr/bx/n --> TU/TimesNewRoman(0)/b/n on input line 317.
 LaTeX Font Info:    Overwriting math alphabet `\mathsf' in version `normal'
-(Font)                  OT1/cmss/m/n --> TU/lmss/m/n on input line 311.
+(Font)                  OT1/cmss/m/n --> TU/lmss/m/n on input line 317.
 LaTeX Font Info:    Overwriting math alphabet `\mathtt' in version `normal'
-(Font)                  OT1/cmtt/m/n --> TU/lmtt/m/n on input line 311.
+(Font)                  OT1/cmtt/m/n --> TU/lmtt/m/n on input line 317.
 LaTeX Font Info:    Overwriting symbol font `operators' in version `bold'
-(Font)                  TU/TimesNewRoman(0)/m/n --> TU/TimesNewRoman(0)/b/n on input line 311.
+(Font)                  TU/TimesNewRoman(0)/m/n --> TU/TimesNewRoman(0)/b/n on input line 317.
 LaTeX Font Info:    Overwriting math alphabet `\mathit' in version `bold'
-(Font)                  OT1/cmr/bx/it --> TU/TimesNewRoman(0)/b/it on input line 311.
+(Font)                  OT1/cmr/bx/it --> TU/TimesNewRoman(0)/b/it on input line 317.
 LaTeX Font Info:    Overwriting math alphabet `\mathsf' in version `bold'
-(Font)                  OT1/cmss/bx/n --> TU/lmss/b/n on input line 311.
+(Font)                  OT1/cmss/bx/n --> TU/lmss/b/n on input line 317.
 LaTeX Font Info:    Overwriting math alphabet `\mathtt' in version `bold'
-(Font)                  OT1/cmtt/m/n --> TU/lmtt/b/n on input line 311.
+(Font)                  OT1/cmtt/m/n --> TU/lmtt/b/n on input line 317.
 Package caption Info: Begin \AtBeginDocument code.
 Package caption Info: float package is loaded.
 Package caption Info: floatrow package is loaded.
@@ -977,7 +977,7 @@ Package: ltcaption 2021/01/08 v1.4c longtable captions (AR)
 Package caption Info: Fixing longtable code of `floatrow' package.
 Package caption Info: threeparttable package is loaded.
 Package caption Info: End \AtBeginDocument code.
-Package hyperref Info: Link coloring ON on input line 311.
+Package hyperref Info: Link coloring ON on input line 317.
  (./Tesis.out) (./Tesis.out)
 \@outlinefile=\write4
 \openout4 = `Tesis.out'.
@@ -1024,13 +1024,13 @@ Package: fr-longtable 2007/11/28 v0.1b (beta) floatrow: additions for longtable
 * \@reversemarginfalse
 * (1in=72.27pt=25.4mm, 1cm=28.453pt)
 
-LaTeX Info: Redefining \microtypecontext on input line 311.
-Package microtype Info: Applying patch `item' on input line 311.
-Package microtype Info: Applying patch `toc' on input line 311.
-Package microtype Info: Applying patch `eqnum' on input line 311.
-Package microtype Info: Applying patch `footnote' on input line 311.
-Package microtype Info: Applying patch `verbatim' on input line 311.
-LaTeX Info: Redefining \microtypesetup on input line 311.
+LaTeX Info: Redefining \microtypecontext on input line 317.
+Package microtype Info: Applying patch `item' on input line 317.
+Package microtype Info: Applying patch `toc' on input line 317.
+Package microtype Info: Applying patch `eqnum' on input line 317.
+Package microtype Info: Applying patch `footnote' on input line 317.
+Package microtype Info: Applying patch `verbatim' on input line 317.
+LaTeX Info: Redefining \microtypesetup on input line 317.
 Package microtype Info: Character protrusion enabled (level 2).
 Package microtype Info: Using default protrusion set `alltext'.
 Package microtype Info: No adjustment of tracking.
@@ -1044,7 +1044,7 @@ Package biblatex Info: Trying to load language 'indonesian'...
 Package biblatex Info: ... file 'indonesian.lbx' not found.
 
 Package biblatex Warning: Language 'indonesian' not supported.
-(biblatex)                Using dummy definitions on input line 311.
+(biblatex)                Using dummy definitions on input line 317.
 
 Package biblatex Info: Trying to load language 'english'...
 Package biblatex Info: ... file 'english.lbx' found.
@@ -1060,8 +1060,8 @@ Package biblatex Info: Automatic encoding selection.
 Package biblatex Info: Trying to load bibliographic data...
 Package biblatex Info: ... file 'Tesis.bbl' found.
  (./Tesis.bbl)
-Package biblatex Info: Reference section=0 on input line 311.
-Package biblatex Info: Reference segment=0 on input line 311.
+Package biblatex Info: Reference section=0 on input line 317.
+Package biblatex Info: Reference segment=0 on input line 317.
  (./1 Halaman Judul.tex
 File: images/ganesha.jpg Graphic file (type bmp)
 <images/ganesha.jpg>
@@ -1186,7 +1186,12 @@ Package geometry Warning: `a4paper': not available in `\newgeometry'; skipped.
 (./6 Daftar Isi.tex [12
 
 
-] (./Tesis.toc [13])
+] (./Tesis.toc
+Overfull \hbox (2.72296pt too wide) in paragraph at lines 45--45
+ [][] [][][]\TU/TimesNewRoman(0)/m/n/12 Penulisan Rumus atau Persamaan Matematika Menggunak- 
+ []
+
+[13])
 \tf@toc=\write5
 \openout5 = `Tesis.toc'.
 
@@ -1359,7 +1364,7 @@ Bab VIII.
 ] [34
 
 ]
-Overfull \hbox (4.9412pt too wide) in paragraph at lines 387--387
+Overfull \hbox (4.9412pt too wide) in paragraph at lines 395--395
 [][]\TU/TimesNewRoman(0)/m/n/12 Laudon, Kenneth C., dan Jane P. Laudon. 2020. \TU/TimesNewRoman(0)/m/it/12 Sistem Informasi Manajemen. \TU/TimesNewRoman(0)/m/n/12 Jakarta:
  []
 
@@ -1394,10 +1399,10 @@ Package logreq Info: Writing requests to 'Tesis.run.xml'.
 
  ) 
 Here is how much of TeX's memory you used:
- 34747 strings out of 468173
- 678968 string characters out of 5433131
- 2230523 words of memory out of 5000000
- 62982 multiletter control sequences out of 15000+600000
+ 34749 strings out of 468173
+ 678997 string characters out of 5433131
+ 2230527 words of memory out of 5000000
+ 62984 multiletter control sequences out of 15000+600000
  634673 words of font info for 98 fonts, out of 8000000 for 9000
  1348 hyphenation exceptions out of 8191
  73i,14n,95p,1246b,6745s stack positions out of 10000i,1000n,20000p,200000b,200000s

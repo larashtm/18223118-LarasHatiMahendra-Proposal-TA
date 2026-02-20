@@ -1,4 +1,4 @@
-This is XeTeX, Version 3.141592653-2.6-0.999997 (TeX Live 2025) (preloaded format=xelatex 2026.1.21)  18 FEB 2026 22:13
+This is XeTeX, Version 3.141592653-2.6-0.999997 (TeX Live 2025) (preloaded format=xelatex 2026.1.21)  20 FEB 2026 10:02
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -1187,11 +1187,14 @@ Package geometry Warning: `a4paper': not available in `\newgeometry'; skipped.
 
 
 ] (./Tesis.toc
-Overfull \hbox (2.72296pt too wide) in paragraph at lines 45--45
+Overfull \hbox (2.72296pt too wide) in paragraph at lines 46--46
  [][] [][][]\TU/TimesNewRoman(0)/m/n/12 Penulisan Rumus atau Persamaan Matematika Menggunak- 
  []
 
-[13])
+
+Underfull \vbox (badness 5374) has occurred while \output is active []
+
+ [13])
 \tf@toc=\write5
 \openout5 = `Tesis.toc'.
 
@@ -1252,10 +1255,7 @@ Overfull \hbox (16.93071pt too wide) in alignment at lines 15--104
 
 ] (./Bab I - Pendahuluan.tex
 Bab I.
-
-Underfull \vbox (badness 1292) has occurred while \output is active []
-
- [1
+[1
 
 
 ]
@@ -1267,9 +1267,10 @@ Overfull \hbox (1.58914pt too wide) in paragraph at lines 38--39
 \TU/TimesNewRoman(0)/m/n/12 aktivitas orang yang menggunakan teknologi tersebut untuk mendukung
  []
 
-[2] [3] [4]) (./Bab II - Studi.tex [5] [6
+[2]
+Underfull \vbox (badness 3838) has occurred while \output is active []
 
-]
+ [3] [4] [5]) (./Bab II - Studi.tex [6]
 Bab II.
 
 Overfull \hbox (1.26251pt too wide) in paragraph at lines 5--8
@@ -1277,6 +1278,7 @@ Overfull \hbox (1.26251pt too wide) in paragraph at lines 5--8
  []
 
 [7
+
 
 ]
 File: images/gambar1.png Graphic file (type bmp)
@@ -1315,73 +1317,62 @@ Package hyperref Info: bookmark level for unknown algorithm defaults to 0 on inp
 
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
- [15])) (./Bab III - Metodologi.tex [16] [17] [18
+ [15])) (./Bab III - Analisis dan Desain.tex [16] [17] [18
 
 ]
 Bab III.
-[19
-
-]) (./Bab IV - Analisis.tex [20]
-Bab IV.
 
 Underfull \vbox (badness 1715) has occurred while \output is active []
 
- [21
-
+ [19
 
 ]
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
- [22]) (./Bab V - Desain.tex [23] [24
+ [20]) (./Bab IV - Implementasi.tex [21] [22
+
+]
+Bab IV.
+) (./Bab VI - Evaluasi.tex [23
+
+] [24
 
 ]
 Bab V.
-) (./Bab VI - Implementasi.tex [25
-
-] [26
-
-]
-Bab VI.
-) (./Bab VII - Evaluasi.tex [27
-
-] [28
-
-]
-Bab VII.
 
 Overfull \hbox (20.82396pt too wide) in paragraph at lines 23--29
  [][] 
  []
 
-[29
+[25
 
-] [30]) (./Bab VIII - Penutup.tex [31] [32
-
-]
-Bab VIII.
-) [33
-
-] [34
+] [26]) (./Bab VII - Penutup.tex [27] [28
 
 ]
-Overfull \hbox (4.9412pt too wide) in paragraph at lines 395--395
+Bab VI.
+) [29
+
+] [30
+
+]
+Overfull \hbox (4.9412pt too wide) in paragraph at lines 394--394
 [][]\TU/TimesNewRoman(0)/m/n/12 Laudon, Kenneth C., dan Jane P. Laudon. 2020. \TU/TimesNewRoman(0)/m/it/12 Sistem Informasi Manajemen. \TU/TimesNewRoman(0)/m/n/12 Jakarta:
  []
 
-(./Lampiran-A.tex [35
+(./Lampiran-A.tex [31
 
-] [36
+] [32
 
 ]
 Lampiran A.
-(./listings/binary-search-python.tex [37
+(./listings/binary-search-python.tex [33
 
-])) (./Lampiran-B.tex [38]
+])) (./Lampiran-B.tex [34]
 Lampiran B.
-) [39
+) [35
 
 
-] [40
+] [36
 
 ] (./Tesis.aux)
  ***********
@@ -1393,18 +1384,18 @@ L3 programming layer <2026-01-10>
 LaTeX Warning: There were undefined references.
 
 Package rerunfilecheck Info: File `Tesis.out' has not changed.
-(rerunfilecheck)             Checksum: 27A50C5FB7F2D0CE50E712426A5B509F;12088.
+(rerunfilecheck)             Checksum: 7EBE92EAE399084B10AD748AD2D05D31;11170.
 Package logreq Info: Writing requests to 'Tesis.run.xml'.
 \openout1 = `Tesis.run.xml'.
 
  ) 
 Here is how much of TeX's memory you used:
- 34749 strings out of 468173
- 678997 string characters out of 5433131
- 2230527 words of memory out of 5000000
- 62984 multiletter control sequences out of 15000+600000
+ 34734 strings out of 468173
+ 678706 string characters out of 5433131
+ 2229434 words of memory out of 5000000
+ 62975 multiletter control sequences out of 15000+600000
  634673 words of font info for 98 fonts, out of 8000000 for 9000
  1348 hyphenation exceptions out of 8191
  73i,14n,95p,1246b,6745s stack positions out of 10000i,1000n,20000p,200000b,200000s
 
-Output written on Tesis.pdf (68 pages).
+Output written on Tesis.pdf (64 pages).

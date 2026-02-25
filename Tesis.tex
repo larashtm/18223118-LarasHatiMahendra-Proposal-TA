@@ -77,7 +77,6 @@
 \usepackage{graphicx} % for images
 \usepackage{caption} % for customizing captions
 \usepackage{subcaption} % for sub-figures
-\usepackage{hyperref} % for hyperlinks
 \usepackage{tocloft} % for customizing table of contents
 \usepackage{titlesec} % for customizing titles
 \usepackage{lipsum} % for dummy text (lorem ipsum text)
@@ -103,6 +102,7 @@
 \usepackage[title,titletoc]{appendix} % for appendix management
 \usepackage{csquotes} % for context-sensitive quotation facilities
 \usepackage{etoolbox}
+\usepackage[hidelinks]{hyperref} % for hyperlinks
 
 \setmainfont{Times New Roman} % set main font to Times New Roman
 \onehalfspacing % spasi 1.5
@@ -163,6 +163,23 @@
 \renewcommand{\listalgorithmname}{DAFTAR ALGORITMA}
 \lstset{basicstyle=\ttfamily\footnotesize,breaklines=true}
 \renewcommand{\thealgorithm}{\thechapter.\arabic{algorithm}}
+
+% Create list of equations
+\newlistof{myequations}{equ}{DAFTAR PERSAMAAN}
+\setlength{\cftmyequationsnumwidth}{3em}
+\renewcommand{\cftmyequationsaftersnum}{\hspace{0.5em}}
+
+% Equation caption command (must be used inside numbered line)
+\newcommand{\eqcaption}[1]{%
+  \addcontentsline{equ}{myequations}
+  {\protect\numberline{\theequation}#1}
+}
+\makeatletter
+\renewcommand{\listofmyequations}{%
+  \chapter*{\centering\large\bfseries DAFTAR PERSAMAAN}
+  \@starttoc{equ}
+}
+\makeatother
 
 \renewcommand \cftchapdotsep{4.5} % Atur jarak titik-titik pada daftar isi
 
@@ -331,7 +348,7 @@
 
 \input{1 Halaman Judul.tex}
 \input{2 Lembar Pengesahan.tex}
-\input{3 Lembar Pernyataan.tex}
+\input{3 Pernyataan Orisinalitas.tex}
 \input{3a Pernyataan Penggunaan AI.tex}
 \input{4 Abstrak.tex}
 \input{5 Kata Pengantar.tex}
@@ -352,9 +369,9 @@
 
 
 \input{6 Daftar Isi.tex}
-%\input{7 Daftar Lampiran.tex} % Optional. Daftar lampiran sudah ada di dalam daftar isi.
-\input{8 Daftar Gambar.tex}
-\input{9 Daftar Tabel.tex}
+\input{7 Daftar Gambar.tex}
+\input{8 Daftar Tabel.tex}
+\input{9 Daftar Persamaan.tex}
 \input{10 Daftar Algoritma.tex}
 \input{11 Daftar Listing.tex}
 \input{12 Daftar Singkatan.tex}

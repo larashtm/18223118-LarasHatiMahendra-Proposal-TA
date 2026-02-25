@@ -1,4 +1,4 @@
-This is XeTeX, Version 3.141592653-2.6-0.999997 (TeX Live 2025) (preloaded format=xelatex 2026.1.21)  25 FEB 2026 16:39
+This is XeTeX, Version 3.141592653-2.6-0.999997 (TeX Live 2025) (preloaded format=xelatex 2026.1.21)  25 FEB 2026 17:04
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -888,7 +888,10 @@ Package csquotes Warning: No style for language 'indonesian'.
 (csquotes)                Using fallback style on input line 334.
 
 Package csquotes Info: Redefining alias 'default' -> 'fallback'.
-(./Tesis.aux)
+(./Tesis.aux (/usr/local/texlive/2025/texmf-dist/tex/generic/babel/locale/en/babel-english.tex)
+Package babel Info: Importing data for english
+(babel)             from babel-en.ini. Reported on input line 56.
+)
 \openout1 = `Tesis.aux'.
 
 LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 334.
@@ -1051,6 +1054,11 @@ Package biblatex Info: ... file 'indonesian.lbx' not found.
 Package biblatex Warning: Language 'indonesian' not supported.
 (biblatex)                Using dummy definitions on input line 334.
 
+Package biblatex Info: Trying to load language 'english'...
+Package biblatex Info: ... file 'english.lbx' found.
+(/usr/local/texlive/2025/texmf-dist/tex/latex/biblatex/lbx/english.lbx
+File: english.lbx 2025/07/10 v3.21 biblatex localization (PK/MW)
+)
 Package biblatex Info: XeTeX detected.
 (biblatex)             Assuming input encoding 'utf8'.
 Package biblatex Info: Automatic encoding selection.
@@ -1058,11 +1066,11 @@ Package biblatex Info: Automatic encoding selection.
 \openout3 = `Tesis.bcf'.
 
 Package biblatex Info: Trying to load bibliographic data...
-Package biblatex Info: ... file 'Tesis.bbl' not found.
-No file Tesis.bbl.
+Package biblatex Info: ... file 'Tesis.bbl' found.
+ (./Tesis.bbl)
 Package biblatex Info: Reference section=0 on input line 334.
 Package biblatex Info: Reference segment=0 on input line 334.
-(./1 Halaman Judul.tex
+ (./1 Halaman Judul.tex
 File: images/ganesha.jpg Graphic file (type bmp)
 <images/ganesha.jpg>
 
@@ -1192,7 +1200,7 @@ Package geometry Warning: `a4paper': not available in `\newgeometry'; skipped.
 
 
 ] (./Tesis.toc
-Overfull \hbox (2.72296pt too wide) in paragraph at lines 36--36
+Overfull \hbox (2.72296pt too wide) in paragraph at lines 46--46
  [][] [][][]\TU/TimesNewRoman(0)/m/n/12 Penulisan Rumus atau Persamaan Matematika Menggunak- 
  []
 
@@ -1217,7 +1225,7 @@ Package microtype Info: Loading generic protrusion settings for font family
 (microtype)             For optimal results, create family-specific settings.
 (microtype)             See the microtype manual for details.
 
-Overfull \hbox (58.8302pt too wide) in paragraph at lines 4--4
+Overfull \hbox (58.8302pt too wide) in paragraph at lines 14--14
  \TU/TimesNewRoman(0)/m/n/12 kolom secara fleksibel. Selain itu, tabel ini juga menggunakan \TU/lmtt/m/n/12 threeparttable 
  []
 
@@ -1265,19 +1273,7 @@ Bab I.
 
 ]
 
-LaTeX Warning: Citation 'laudon2020' on page 2 undefined on input line 30.
-
-
-LaTeX Warning: Citation 'pressman2019' on page 2 undefined on input line 30.
-
-
-LaTeX Warning: Citation 'laudon2020' on page 2 undefined on input line 34.
-
-
-LaTeX Warning: Citation '' on page 2 undefined on input line 34.
-
-
-LaTeX Warning: Citation 'laudon2020' on page 2 undefined on input line 38.
+Package biblatex-chicago Warning: Empty Ibidem citation on input line 38.
 
 
 Overfull \hbox (1.58914pt too wide) in paragraph at lines 38--39
@@ -1338,19 +1334,9 @@ Underfull \vbox (badness 10000) has occurred while \output is active []
 
 ]
 Bab III.
-
-LaTeX Warning: Citation 'laudon2020' on page 19 undefined on input line 18.
-
-
-LaTeX Warning: Citation '' on page 19 undefined on input line 18.
-
-
-LaTeX Warning: Citation 'pressman2019' on page 19 undefined on input line 18.
-
-
-Underfull \vbox (badness 1715) has occurred while \output is active []
-
- [19
+File: images/gambar1a.png Graphic file (type bmp)
+<images/gambar1a.png>
+[19
 
 ]
 Underfull \vbox (badness 10000) has occurred while \output is active []
@@ -1359,9 +1345,6 @@ Underfull \vbox (badness 10000) has occurred while \output is active []
 
 ]
 Bab IV.
-
-LaTeX Warning: Citation 'BPBI' on page 23 undefined on input line 18.
-
 
 Overfull \hbox (20.82396pt too wide) in paragraph at lines 23--29
  [][] 
@@ -1378,20 +1361,24 @@ Bab V.
 ] [28
 
 ]
+Overfull \hbox (4.9412pt too wide) in paragraph at lines 410--410
+[][]\TU/TimesNewRoman(0)/m/n/12 Laudon, Kenneth C., dan Jane P. Laudon. 2020. \TU/TimesNewRoman(0)/m/it/12 Sistem Informasi Manajemen. \TU/TimesNewRoman(0)/m/n/12 Jakarta:
+ []
 
-LaTeX Warning: Empty bibliography on input line 410.
+(./Lampiran-A.tex [29
 
-(./Lampiran-A.tex
+] [30
+
+]
 Lampiran A.
-(./listings/binary-search-python.tex [29
+(./listings/binary-search-python.tex [31
 
-
-])) (./Lampiran-B.tex [30]
+])) (./Lampiran-B.tex [32]
 Lampiran B.
-) [31
+) [33
 
 
-] [32
+] [34
 
 ] (./Tesis.aux)
  ***********
@@ -1402,24 +1389,26 @@ L3 programming layer <2026-01-10>
 
 LaTeX Warning: There were undefined references.
 
+
+LaTeX Warning: Label(s) may have changed. Rerun to get cross-references right.
+
 Package rerunfilecheck Info: File `Tesis.out' has not changed.
 (rerunfilecheck)             Checksum: 203C1B2008CBEA8C1C5F08F3E0573C9B;11052.
 
-Package biblatex Warning: Please (re)run Biber on the file:
-(biblatex)                Tesis
-(biblatex)                and rerun LaTeX afterwards.
+Package biblatex Warning: Please rerun LaTeX.
+(biblatex)                Page breaks have changed.
 
 Package logreq Info: Writing requests to 'Tesis.run.xml'.
 \openout1 = `Tesis.run.xml'.
 
  ) 
 Here is how much of TeX's memory you used:
- 33238 strings out of 468173
- 648166 string characters out of 5433131
- 2204291 words of memory out of 5000000
- 61493 multiletter control sequences out of 15000+600000
+ 34767 strings out of 468173
+ 679170 string characters out of 5433131
+ 2230223 words of memory out of 5000000
+ 63009 multiletter control sequences out of 15000+600000
  634673 words of font info for 98 fonts, out of 8000000 for 9000
  1348 hyphenation exceptions out of 8191
- 73i,14n,95p,1250b,2106s stack positions out of 10000i,1000n,20000p,200000b,200000s
+ 73i,14n,95p,1250b,6745s stack positions out of 10000i,1000n,20000p,200000b,200000s
 
-Output written on Tesis.pdf (60 pages).
+Output written on Tesis.pdf (62 pages).

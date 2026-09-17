@@ -1,23 +1,23 @@
 # Fdb version 4
-["biber ProposalTA"] 1789564952.8872 "ProposalTA.bcf" "ProposalTA.bbl" "ProposalTA" 1789565223.66425 0
-  "ProposalTA.bcf" 1789565222 134673 3bfbd00e229616fe5e1e29ca7fb3baf2 "xelatex"
+["biber ProposalTA"] 1789564952.8872 "ProposalTA.bcf" "ProposalTA.bbl" "ProposalTA" 1789591495.10899 0
+  "ProposalTA.bcf" 1789591492 134673 3bfbd00e229616fe5e1e29ca7fb3baf2 "xelatex"
   "daftar-pustaka.bib" 1789355409 7084 71180d3621d89139ab1b0320d095b5e0 ""
   (generated)
   "ProposalTA.bbl"
   "ProposalTA.blg"
   (rewritten before read)
-["xdvipdfmx"] 1789565222.7561 "ProposalTA.xdv" "ProposalTA.pdf" "ProposalTA" 1789565223.67349 0
-  "ProposalTA.xdv" 1789565222 515808 8b6baa2aedcfdf1c0ada9ae73d317a68 "xelatex"
+["xdvipdfmx"] 1789591493.36339 "ProposalTA.xdv" "ProposalTA.pdf" "ProposalTA" 1789591495.12665 0
+  "ProposalTA.xdv" 1789591492 516140 891053fd5cbc9d9788c8948979d1b308 "xelatex"
   (generated)
   "ProposalTA.pdf"
   (rewritten before read)
-["xelatex"] 1789565219.26256 "c:/Users/laras/Downloads/Proposal-TA-template-v2-APA/18223118-LarasHatiMahendra-Proposal-TA/ProposalTA.tex" "ProposalTA.xdv" "ProposalTA" 1789565223.66457 0
+["xelatex"] 1789591467.83398 "c:/Users/laras/Downloads/Proposal-TA-template-v2-APA/18223118-LarasHatiMahendra-Proposal-TA/ProposalTA.tex" "ProposalTA.xdv" "ProposalTA" 1789591495.10945 0
   "1 Halaman Judul.tex" 1789565215 801 a828e5467f43e30780439256a2f58372 ""
   "10 Daftar Algoritma.tex" 1789551733 221 c7ef7afc1d8643bd2156964328529c0e ""
   "11 Daftar Listing.tex" 1789355409 181 a37ed17591f4febb671661fd6ac7de6b ""
   "12 Daftar Singkatan.tex" 1789355409 824 4da6e5fff38379680ee117f05d2d242b ""
   "13 Daftar Simbol.tex" 1789355409 4698 464f445c7efe15ca6183b8397976ebc0 ""
-  "2 Lembar Pengesahan.tex" 1789556830 1404 d5f190fb8bae517a2424be4a76b1eabc ""
+  "2 Lembar Pengesahan.tex" 1789591462 1438 8ebee005ac10f6a59c5735084daf2885 ""
   "3 Pernyataan Orisinalitas.tex" 1789555486 987 fde832b92bbc9ca21e79c5924de2dcc9 ""
   "3a Deklarasi Penggunaan AI.tex" 1789556830 1439 986c349171a6194d2129dbe66d940647 ""
   "6 Daftar Isi.tex" 1789355409 298 1602732d64c277c405934224c9507c2a ""
@@ -177,17 +177,17 @@
   "C:/Users/laras/AppData/Local/Programs/MiKTeX/tex/latex/xcolor/xcolor.sty" 1729265222 55384 b454dec21c2d9f45ec0b793f0995b992 ""
   "C:/Users/laras/AppData/Local/Programs/MiKTeX/tex/latex/xkeyval/xkeyval.sty" 1656236919 4937 4ce600ce9bd4ec84d0250eb6892fcf4f ""
   "Lampiran-A.tex" 1789355409 330 0480e3adad399072ddc8aceb6e7541ec ""
-  "ProposalTA.aux" 1789565222 13911 9fc45c85320d4462be4df1c5dc0a7699 "xelatex"
+  "ProposalTA.aux" 1789591492 13911 9fc45c85320d4462be4df1c5dc0a7699 "xelatex"
   "ProposalTA.bbl" 1789564955 14375 7ff49ae2619276eed9243b4edb773d27 "biber ProposalTA"
-  "ProposalTA.equ" 1789565222 249 63c25027537cf35fbaaccb94f0e756b3 "xelatex"
-  "ProposalTA.loa" 1789565222 102 bc6ec433d52465be0b9b83a5c5c1db9b "xelatex"
-  "ProposalTA.lof" 1789565222 568 2e335624609ee07f29d9076fbdbd18da "xelatex"
-  "ProposalTA.lol" 1789565222 220 4e609e3e1615217089d7f0c72071c8a3 "xelatex"
-  "ProposalTA.lot" 1789565222 976 e06c55b641be1a812714a439fc46a76d "xelatex"
-  "ProposalTA.out" 1789565222 8078 36abdd314b64a0c1ea53c83f82bf96c1 "xelatex"
-  "ProposalTA.run.xml" 1789565222 2508 5dcb7fc0ad1c32a0a8fdaf84f2a8207c "xelatex"
+  "ProposalTA.equ" 1789591492 249 63c25027537cf35fbaaccb94f0e756b3 "xelatex"
+  "ProposalTA.loa" 1789591492 102 bc6ec433d52465be0b9b83a5c5c1db9b "xelatex"
+  "ProposalTA.lof" 1789591492 568 2e335624609ee07f29d9076fbdbd18da "xelatex"
+  "ProposalTA.lol" 1789591492 220 4e609e3e1615217089d7f0c72071c8a3 "xelatex"
+  "ProposalTA.lot" 1789591492 976 e06c55b641be1a812714a439fc46a76d "xelatex"
+  "ProposalTA.out" 1789591492 8078 36abdd314b64a0c1ea53c83f82bf96c1 "xelatex"
+  "ProposalTA.run.xml" 1789591492 2508 5dcb7fc0ad1c32a0a8fdaf84f2a8207c "xelatex"
   "ProposalTA.tex" 1789565190 2249 5cf3254e0ecc471305640c091b9e50f6 ""
-  "ProposalTA.toc" 1789565222 4184 0491a5be3b2469a2b6251755d9b4ef88 "xelatex"
+  "ProposalTA.toc" 1789591492 4184 0491a5be3b2469a2b6251755d9b4ef88 "xelatex"
   "algorithms/binary-search-alg.tex" 1789355409 571 302179ceb0d55cb222766d3f910b180c ""
   "c:/Users/laras/Downloads/Proposal-TA-template-v2-APA/18223118-LarasHatiMahendra-Proposal-TA/ProposalTA.tex" 1789565190 2249 5cf3254e0ecc471305640c091b9e50f6 ""
   "images/gambar1.png" 1789355409 307807 00b8d088bb1dcb416dfb96d28ff9e073 ""

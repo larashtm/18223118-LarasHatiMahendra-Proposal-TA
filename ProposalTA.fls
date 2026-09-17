@@ -276,12 +276,6 @@ INPUT C:\Users\laras\AppData\Local\Programs\MiKTeX\tex\latex\graphics\color.sty
 INPUT C:\Users\laras\AppData\Local\Programs\MiKTeX\tex\latex\graphics\color.sty
 INPUT C:\Users\laras\AppData\Local\Programs\MiKTeX\tex\latex\floatrow\fr-longtable.sty
 INPUT C:\Users\laras\AppData\Local\Programs\MiKTeX\tex\latex\floatrow\fr-longtable.sty
-INPUT .\ProposalTA.out
-INPUT .\ProposalTA.out
-INPUT ProposalTA.out
-INPUT ProposalTA.out
-INPUT .\ProposalTA.out
-INPUT .\ProposalTA.out
 OUTPUT ProposalTA.out
 INPUT C:\Users\laras\AppData\Local\Programs\MiKTeX\tex\latex\biblatex-apa\english-apa.lbx
 INPUT C:\Users\laras\AppData\Local\Programs\MiKTeX\tex\latex\biblatex-apa\english-apa.lbx
@@ -298,11 +292,6 @@ INPUT C:\Users\laras\AppData\Local\Programs\MiKTeX\tex\latex\biblatex-apa\englis
 INPUT C:\Users\laras\AppData\Local\Programs\MiKTeX\tex\latex\biblatex\lbx\american.lbx
 INPUT C:\Users\laras\AppData\Local\Programs\MiKTeX\tex\latex\biblatex\lbx\english.lbx
 OUTPUT ProposalTA.bcf
-INPUT ProposalTA.bbl
-INPUT .\ProposalTA.bbl
-INPUT .\ProposalTA.bbl
-INPUT .\ProposalTA.bbl
-INPUT ProposalTA.bbl
 INPUT .\1 Halaman Judul.tex
 INPUT .\1 Halaman Judul.tex
 INPUT 1 Halaman Judul.tex
@@ -355,94 +344,4 @@ INPUT 3a Deklarasi Penggunaan AI.tex
 INPUT .\6 Daftar Isi.tex
 INPUT .\6 Daftar Isi.tex
 INPUT 6 Daftar Isi.tex
-INPUT .\ProposalTA.toc
-INPUT .\ProposalTA.toc
-INPUT ProposalTA.toc
 OUTPUT ProposalTA.toc
-INPUT .\7 Daftar Gambar.tex
-INPUT .\7 Daftar Gambar.tex
-INPUT 7 Daftar Gambar.tex
-INPUT .\ProposalTA.lof
-INPUT .\ProposalTA.lof
-INPUT ProposalTA.lof
-OUTPUT ProposalTA.lof
-INPUT .\8 Daftar Tabel.tex
-INPUT .\8 Daftar Tabel.tex
-INPUT 8 Daftar Tabel.tex
-INPUT .\ProposalTA.lot
-INPUT .\ProposalTA.lot
-INPUT ProposalTA.lot
-OUTPUT ProposalTA.lot
-INPUT .\9 Daftar Persamaan.tex
-INPUT .\9 Daftar Persamaan.tex
-INPUT 9 Daftar Persamaan.tex
-INPUT .\ProposalTA.equ
-INPUT .\ProposalTA.equ
-INPUT ProposalTA.equ
-OUTPUT ProposalTA.equ
-INPUT .\10 Daftar Algoritma.tex
-INPUT .\10 Daftar Algoritma.tex
-INPUT 10 Daftar Algoritma.tex
-INPUT .\ProposalTA.loa
-INPUT .\ProposalTA.loa
-INPUT ProposalTA.loa
-OUTPUT ProposalTA.loa
-INPUT .\11 Daftar Listing.tex
-INPUT .\11 Daftar Listing.tex
-INPUT 11 Daftar Listing.tex
-INPUT .\ProposalTA.lol
-INPUT .\ProposalTA.lol
-INPUT ProposalTA.lol
-OUTPUT ProposalTA.lol
-INPUT .\12 Daftar Singkatan.tex
-INPUT .\12 Daftar Singkatan.tex
-INPUT 12 Daftar Singkatan.tex
-INPUT .\13 Daftar Simbol.tex
-INPUT .\13 Daftar Simbol.tex
-INPUT 13 Daftar Simbol.tex
-INPUT .\Bab I - Pendahuluan.tex
-INPUT .\Bab I - Pendahuluan.tex
-INPUT Bab I - Pendahuluan.tex
-INPUT .\Bab II - Studi.tex
-INPUT .\Bab II - Studi.tex
-INPUT Bab II - Studi.tex
-INPUT .\images\gambar1.png
-INPUT .\images\gambar1.png
-INPUT .\images\gambar1.png
-INPUT .\images\gambar1.png
-INPUT .\images\gambar1.png
-INPUT .\images\gambar1.png
-INPUT C:\Users\laras\AppData\Local\Programs\MiKTeX\fonts\tfm\public\amsfonts\cmextra\cmex7.tfm
-INPUT C:\Users\laras\AppData\Local\Programs\MiKTeX\fonts\tfm\public\amsfonts\cmextra\cmex7.tfm
-INPUT C:\Users\laras\AppData\Local\Programs\MiKTeX\fonts\tfm\public\amsfonts\symbols\msam10.tfm
-INPUT C:\Users\laras\AppData\Local\Programs\MiKTeX\fonts\tfm\public\amsfonts\symbols\msam7.tfm
-INPUT C:\Users\laras\AppData\Local\Programs\MiKTeX\fonts\tfm\public\amsfonts\symbols\msam5.tfm
-INPUT C:\Users\laras\AppData\Local\Programs\MiKTeX\fonts\tfm\public\amsfonts\symbols\msbm10.tfm
-INPUT C:\Users\laras\AppData\Local\Programs\MiKTeX\fonts\tfm\public\amsfonts\symbols\msbm7.tfm
-INPUT C:\Users\laras\AppData\Local\Programs\MiKTeX\fonts\tfm\public\amsfonts\symbols\msbm5.tfm
-INPUT tables\tabel1.tex
-INPUT tables\longtable1.tex
-INPUT .\listings\binary-search-python.tex
-INPUT .\listings\binary-search-python.tex
-INPUT listings\binary-search-python.tex
-INPUT .\algorithms\binary-search-alg.tex
-INPUT .\algorithms\binary-search-alg.tex
-INPUT algorithms\binary-search-alg.tex
-INPUT .\Bab III - Analisis-Masalah.tex
-INPUT .\Bab III - Analisis-Masalah.tex
-INPUT Bab III - Analisis-Masalah.tex
-INPUT .\Bab IV - Desain-Konsep-Solusi.tex
-INPUT .\Bab IV - Desain-Konsep-Solusi.tex
-INPUT Bab IV - Desain-Konsep-Solusi.tex
-INPUT .\Bab V - Rencana-Selanjutnya.tex
-INPUT .\Bab V - Rencana-Selanjutnya.tex
-INPUT Bab V - Rencana-Selanjutnya.tex
-INPUT .\Lampiran-A.tex
-INPUT .\Lampiran-A.tex
-INPUT Lampiran-A.tex
-INPUT listings\binary-search-python.tex
-INPUT ProposalTA.aux
-INPUT .\ProposalTA.out
-INPUT .\ProposalTA.out
-INPUT ProposalTA.run.xml
-OUTPUT ProposalTA.run.xml

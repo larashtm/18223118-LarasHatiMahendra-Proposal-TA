@@ -1,10 +1,9 @@
-This is XeTeX, Version 3.141592653-2.6-0.999997 (MiKTeX 25.12) (preloaded format=xelatex 2026.9.16)  18 SEP 2026 03:30
+This is XeTeX, Version 3.141592653-2.6-0.999997 (MiKTeX 25.12) (preloaded format=xelatex 2026.9.16)  18 SEP 2026 08:52
 entering extended mode
  restricted \write18 enabled.
- file:line:error style messages enabled.
  %&-line parsing enabled.
-**c:/Users/laras/Downloads/Proposal-TA-template-v2-APA/18223118-LarasHatiMahendra-Proposal-TA/ProposalTA.tex
-(c:/Users/laras/Downloads/Proposal-TA-template-v2-APA/18223118-LarasHatiMahendra-Proposal-TA/ProposalTA.tex
+**./ProposalTA.tex
+(ProposalTA.tex
 LaTeX2e <2025-11-01>
 L3 programming layer <2025-12-24>
 (ta-sti.cls
@@ -26,7 +25,8 @@ File: bk12.clo 2025/01/22 v1.4n Standard LaTeX file (size option)
 \abovecaptionskip=\skip49
 \belowcaptionskip=\skip50
 \bibindent=\dimen148
-) (C:\Users\laras\AppData\Local\Programs\MiKTeX\tex/latex/base\inputenc.sty
+)
+(C:\Users\laras\AppData\Local\Programs\MiKTeX\tex/latex/base\inputenc.sty
 Package: inputenc 2024/02/08 v1.3d Input encoding file
 \inpenc@prehook=\toks17
 \inpenc@posthook=\toks18
@@ -34,9 +34,15 @@ Package: inputenc 2024/02/08 v1.3d Input encoding file
 
 Package inputenc Warning: inputenc package ignored with utf8 based engines.
 
-) (C:\Users\laras\AppData\Local\Programs\MiKTeX\tex/latex/fontspec\fontspec.sty (C:\Users\laras\AppData\Local\Programs\MiKTeX\tex/latex/l3packages/xparse\xparse.sty (C:\Users\laras\AppData\Local\Programs\MiKTeX\tex/latex/l3kernel\expl3.sty
+) (C:\Users\laras\AppData\Local\Programs\MiKTeX\tex/latex/fontspec\fontspec.sty
+
+(C:\Users\laras\AppData\Local\Programs\MiKTeX\tex/latex/l3packages/xparse\xpars
+e.sty
+(C:\Users\laras\AppData\Local\Programs\MiKTeX\tex/latex/l3kernel\expl3.sty
 Package: expl3 2025-12-24 L3 programming layer (loader) 
- (C:\Users\laras\AppData\Local\Programs\MiKTeX\tex/latex/l3backend\l3backend-xetex.def
+
+(C:\Users\laras\AppData\Local\Programs\MiKTeX\tex/latex/l3backend\l3backend-xet
+ex.def
 File: l3backend-xetex.def 2025-10-09 L3 backend support: XeTeX
 \g__graphics_track_int=\count280
 \g__pdfannot_backend_int=\count281
@@ -45,8 +51,11 @@ File: l3backend-xetex.def 2025-10-09 L3 backend support: XeTeX
 Package: xparse 2025-10-09 L3 Experimental document command parser
 )
 Package: fontspec 2025/09/29 v2.9g Font selection for XeLaTeX and LuaLaTeX
- (C:\Users\laras\AppData\Local\Programs\MiKTeX\tex/latex/fontspec\fontspec-xetex.sty
-Package: fontspec-xetex 2025/09/29 v2.9g Font selection for XeLaTeX and LuaLaTeX
+
+(C:\Users\laras\AppData\Local\Programs\MiKTeX\tex/latex/fontspec\fontspec-xetex
+.sty
+Package: fontspec-xetex 2025/09/29 v2.9g Font selection for XeLaTeX and LuaLaTe
+X
 \l__fontspec_script_int=\count283
 \l__fontspec_language_int=\count284
 \l__fontspec_strnum_int=\count285
@@ -63,19 +72,30 @@ Package: fontspec-xetex 2025/09/29 v2.9g Font selection for XeLaTeX and LuaLaTeX
 \l__fontspec_tmpc_dim=\dimen151
  (C:\Users\laras\AppData\Local\Programs\MiKTeX\tex/latex/base\fontenc.sty
 Package: fontenc 2025/07/18 v2.1d Standard LaTeX package
-) (C:\Users\laras\AppData\Local\Programs\MiKTeX\tex/latex/fontspec\fontspec.cfg))) (C:\Users\laras\AppData\Local\Programs\MiKTeX\tex/generic/babel\babel.sty
-Package: babel 2025/12/11 v25.17 The multilingual framework for LuaLaTeX, pdfLaTeX and XeLaTeX
+)
+(C:\Users\laras\AppData\Local\Programs\MiKTeX\tex/latex/fontspec\fontspec.cfg))
+) (C:\Users\laras\AppData\Local\Programs\MiKTeX\tex/generic/babel\babel.sty
+Package: babel 2025/12/11 v25.17 The multilingual framework for LuaLaTeX, pdfLa
+TeX and XeLaTeX
 \babel@savecnt=\count294
-LaTeX Encoding Info:    Redeclaring text command \ij (encoding OT1) on input line 2068.
-LaTeX Encoding Info:    Redeclaring text command \IJ (encoding OT1) on input line 2070.
-LaTeX Encoding Info:    Redeclaring text command \ij (encoding T1) on input line 2072.
-LaTeX Encoding Info:    Redeclaring text command \IJ (encoding T1) on input line 2073.
-LaTeX Encoding Info:    Ignoring declaration for text command \ij (encoding ?) on input line 2074.
-LaTeX Encoding Info:    Ignoring declaration for text command \IJ (encoding ?) on input line 2076.
-LaTeX Encoding Info:    Ignoring declaration for text command \SS (encoding ?) on input line 2101.
+LaTeX Encoding Info:    Redeclaring text command \ij (encoding OT1) on input li
+ne 2068.
+LaTeX Encoding Info:    Redeclaring text command \IJ (encoding OT1) on input li
+ne 2070.
+LaTeX Encoding Info:    Redeclaring text command \ij (encoding T1) on input lin
+e 2072.
+LaTeX Encoding Info:    Redeclaring text command \IJ (encoding T1) on input lin
+e 2073.
+LaTeX Encoding Info:    Ignoring declaration for text command \ij (encoding ?) 
+on input line 2074.
+LaTeX Encoding Info:    Ignoring declaration for text command \IJ (encoding ?) 
+on input line 2076.
+LaTeX Encoding Info:    Ignoring declaration for text command \SS (encoding ?) 
+on input line 2101.
 \U@D=\dimen152
 \l@unhyphenated=\language79
- (C:\Users\laras\AppData\Local\Programs\MiKTeX\tex/generic/babel\xebabel.def)
+
+(C:\Users\laras\AppData\Local\Programs\MiKTeX\tex/generic/babel\xebabel.def)
 \bbl@readstream=\read2
 \bbl@dirlevel=\count295
 Package babel Info: Configuration files are deprecated, as
@@ -86,18 +106,27 @@ Package babel Info: Configuration files are deprecated, as
 * Local config file bblopts.cfg used
 *
 (C:\Users\laras\AppData\Local\Programs\MiKTeX\tex/latex/arabi\bblopts.cfg
-File: bblopts.cfg 2005/09/08 v0.1 add Arabic and Farsi to "declared" options of babel
-) (C:\Users\laras\AppData\Local\Programs\MiKTeX\tex/generic/babel/locale/id\babel-indonesian.tex)
+File: bblopts.cfg 2005/09/08 v0.1 add Arabic and Farsi to "declared" options of
+ babel
+)
+(C:\Users\laras\AppData\Local\Programs\MiKTeX\tex/generic/babel/locale/id\babel
+-indonesian.tex)
 Package babel Info: Importing font and identification data for indonesian
 (babel)             from babel-id.ini. Reported on input line 4320.
- (C:\Users\laras\AppData\Local\Programs\MiKTeX\tex/latex/babel-indonesian\indonesian.ldf
-Language: indonesian 2025/06/01 v1.0n Bahasa Indonesia support from the babel system
-)) (C:\Users\laras\AppData\Local\Programs\MiKTeX\tex/latex/csquotes\csquotes.sty
+
+(C:\Users\laras\AppData\Local\Programs\MiKTeX\tex/latex/babel-indonesian\indone
+sian.ldf
+Language: indonesian 2025/06/01 v1.0n Bahasa Indonesia support from the babel s
+ystem
+))
+(C:\Users\laras\AppData\Local\Programs\MiKTeX\tex/latex/csquotes\csquotes.sty
 Package: csquotes 2026-05-19 v5.2p context-sensitive quotations (JAW)
- (C:\Users\laras\AppData\Local\Programs\MiKTeX\tex/latex/etoolbox\etoolbox.sty
+
+(C:\Users\laras\AppData\Local\Programs\MiKTeX\tex/latex/etoolbox\etoolbox.sty
 Package: etoolbox 2025/10/02 v2.5m e-TeX tools for LaTeX (JAW)
 \etb@tempcnta=\count296
-) (C:\Users\laras\AppData\Local\Programs\MiKTeX\tex/latex/graphics\keyval.sty
+)
+(C:\Users\laras\AppData\Local\Programs\MiKTeX\tex/latex/graphics\keyval.sty
 Package: keyval 2022/05/29 v1.15 key=value parser (DPC)
 \KV@toks@=\toks19
 )
@@ -108,33 +137,42 @@ Package: keyval 2022/05/29 v1.15 key=value parser (DPC)
 \csq@maxlvl=\count301
 \csq@tshold=\count302
 \csq@ltx@everypar=\toks20
- (C:\Users\laras\AppData\Local\Programs\MiKTeX\tex/latex/csquotes\csquotes.def
+
+(C:\Users\laras\AppData\Local\Programs\MiKTeX\tex/latex/csquotes\csquotes.def
 File: csquotes.def 2026-05-19 v5.2p csquotes generic definitions (JAW)
 )
 Package csquotes Info: Trying to load configuration file 'csquotes.cfg'...
 Package csquotes Info: ... configuration file loaded successfully.
- (C:\Users\laras\AppData\Local\Programs\MiKTeX\tex/latex/csquotes\csquotes.cfg
+
+(C:\Users\laras\AppData\Local\Programs\MiKTeX\tex/latex/csquotes\csquotes.cfg
 File: csquotes.cfg 
-)) (C:\Users\laras\AppData\Local\Programs\MiKTeX\tex/latex/setspace\setspace.sty
+)) (C:\Users\laras\AppData\Local\Programs\MiKTeX\tex/latex/setspace\setspace.st
+y
 Package: setspace 2022/12/04 v6.7b set line spacing
 ) (C:\Users\laras\AppData\Local\Programs\MiKTeX\tex/latex/graphics\graphicx.sty
 Package: graphicx 2024/12/31 v1.2e Enhanced LaTeX Graphics (DPC,SPQR)
- (C:\Users\laras\AppData\Local\Programs\MiKTeX\tex/latex/graphics\graphics.sty
+
+(C:\Users\laras\AppData\Local\Programs\MiKTeX\tex/latex/graphics\graphics.sty
 Package: graphics 2024/08/06 v1.4g Standard LaTeX Graphics (DPC,SPQR)
- (C:\Users\laras\AppData\Local\Programs\MiKTeX\tex/latex/graphics\trig.sty
+
+(C:\Users\laras\AppData\Local\Programs\MiKTeX\tex/latex/graphics\trig.sty
 Package: trig 2023/12/02 v1.11 sin cos tan (DPC)
-) (C:\Users\laras\AppData\Local\Programs\MiKTeX\tex/latex/graphics-cfg\graphics.cfg
+)
+(C:\Users\laras\AppData\Local\Programs\MiKTeX\tex/latex/graphics-cfg\graphics.c
+fg
 File: graphics.cfg 2016/06/04 v1.11 sample graphics configuration
 )
 Package graphics Info: Driver file: xetex.def on input line 106.
- (C:\Users\laras\AppData\Local\Programs\MiKTeX\tex/latex/graphics-def\xetex.def
+
+(C:\Users\laras\AppData\Local\Programs\MiKTeX\tex/latex/graphics-def\xetex.def
 File: xetex.def 2025/11/01 v5.0p Graphics/color driver for xetex
 ))
 \Gin@req@height=\dimen153
 \Gin@req@width=\dimen154
 ) (C:\Users\laras\AppData\Local\Programs\MiKTeX\tex/latex/caption\caption.sty
 Package: caption 2023/08/05 v3.6o Customizing captions (AR)
- (C:\Users\laras\AppData\Local\Programs\MiKTeX\tex/latex/caption\caption3.sty
+
+(C:\Users\laras\AppData\Local\Programs\MiKTeX\tex/latex/caption\caption3.sty
 Package: caption3 2023/07/31 v2.4d caption3 kernel (AR)
 \caption@tempdima=\dimen155
 \captionmargin=\dimen156
@@ -148,7 +186,8 @@ Package caption Info: Standard document class detected.
 )
 \c@caption@flags=\count303
 \c@continuedfloat=\count304
-) (C:\Users\laras\AppData\Local\Programs\MiKTeX\tex/latex/caption\subcaption.sty
+)
+(C:\Users\laras\AppData\Local\Programs\MiKTeX\tex/latex/caption\subcaption.sty
 Package: subcaption 2023/07/28 v1.6b Sub-captions (AR)
 Package caption Info: New subtype `subfigure' on input line 238.
 \c@subfigure=\count305
@@ -193,7 +232,8 @@ Package tocloft Info: The document has chapter divisions on input line 64.
 \cftbeforetabskip=\skip82
 \cfttabindent=\skip83
 \cfttabnumwidth=\skip84
-) (C:\Users\laras\AppData\Local\Programs\MiKTeX\tex/latex/titlesec\titlesec.sty
+)
+(C:\Users\laras\AppData\Local\Programs\MiKTeX\tex/latex/titlesec\titlesec.sty
 Package: titlesec 2025/01/04 v2.17 Sectioning titles
 \ttl@box=\box53
 \beforetitleunit=\skip85
@@ -204,14 +244,19 @@ Package: titlesec 2025/01/04 v2.17 Sectioning titles
 \titlewidth=\dimen165
 \titlewidthlast=\dimen166
 \titlewidthfirst=\dimen167
-) (C:\Users\laras\AppData\Local\Programs\MiKTeX\tex/latex/lipsum\lipsum.sty (C:\Users\laras\AppData\Local\Programs\MiKTeX\tex/latex/l3packages/l3keys2e\l3keys2e.sty
+)
+(C:\Users\laras\AppData\Local\Programs\MiKTeX\tex/latex/lipsum\lipsum.sty
+(C:\Users\laras\AppData\Local\Programs\MiKTeX\tex/latex/l3packages/l3keys2e\l3k
+eys2e.sty
 Package: l3keys2e 2025-10-09 LaTeX2e option processing using LaTeX3 keys
 )
 Package: lipsum 2021-09-20 v2.7 150 paragraphs of Lorem Ipsum dummy text
 \g__lipsum_par_int=\count309
 \l__lipsum_a_int=\count310
 \l__lipsum_b_int=\count311
- (C:\Users\laras\AppData\Local\Programs\MiKTeX\tex/latex/lipsum\lipsum.ltd.tex)) (C:\Users\laras\AppData\Local\Programs\MiKTeX\tex/latex/floatrow\floatrow.sty
+
+(C:\Users\laras\AppData\Local\Programs\MiKTeX\tex/latex/lipsum\lipsum.ltd.tex))
+(C:\Users\laras\AppData\Local\Programs\MiKTeX\tex/latex/floatrow\floatrow.sty
 Package: floatrow 2008/08/02 v0.3b floatrow: float package extension
 \c@float@type=\count312
 \float@exts=\toks22
@@ -219,6 +264,7 @@ Package: floatrow 2008/08/02 v0.3b floatrow: float package extension
 \@floatcapt=\box55
 Package floatrow Info: Modified float package code loaded on input line 455.
 Package floatrow Info: Modified rotfloat package code loaded on input line 473.
+
 \FR@everyfloat=\toks23
 \flrow@foot=\insert252
 \FB@wd=\dimen168
@@ -247,7 +293,8 @@ Package floatrow Info: Modified rotfloat package code loaded on input line 473.
 \LTleft=\skip99
 \LTright=\skip100
 \flrow@types=\toks24
-) (C:\Users\laras\AppData\Local\Programs\MiKTeX\tex/latex/listings\listings.sty
+)
+(C:\Users\laras\AppData\Local\Programs\MiKTeX\tex/latex/listings\listings.sty
 \lst@mode=\count319
 \lst@gtempboxa=\box57
 \lst@token=\toks25
@@ -260,18 +307,20 @@ Package floatrow Info: Modified rotfloat package code loaded on input line 473.
 \lst@newlines=\count323
 \lst@lineno=\count324
 \lst@maxwidth=\dimen175
- (C:\Users\laras\AppData\Local\Programs\MiKTeX\tex/latex/listings\lstpatch.sty
+
+(C:\Users\laras\AppData\Local\Programs\MiKTeX\tex/latex/listings\lstpatch.sty
 File: lstpatch.sty 2025/11/14 1.11b (Carsten Heinz)
-) (C:\Users\laras\AppData\Local\Programs\MiKTeX\tex/latex/listings\lstmisc.sty
+)
+(C:\Users\laras\AppData\Local\Programs\MiKTeX\tex/latex/listings\lstmisc.sty
 File: lstmisc.sty 2025/11/14 1.11b (Carsten Heinz)
 \c@lstnumber=\count325
 \lst@skipnumbers=\count326
 \lst@framebox=\box58
-) (C:\Users\laras\AppData\Local\Programs\MiKTeX\tex/latex/listings\listings.cfg
+)
+(C:\Users\laras\AppData\Local\Programs\MiKTeX\tex/latex/listings\listings.cfg
 File: listings.cfg 2025/11/14 1.11b listings configuration
 ))
 Package: listings 2025/11/14 1.11b (Carsten Heinz)
-
 ==> First Aid for listings.sty no longer applied!
     Expected:
         2024/09/23 1.10c (Carsten Heinz)
@@ -285,14 +334,17 @@ Package: amsmath 2025/07/09 v2.17z AMS math features
 For additional information on amsmath, use the `?' option.
 (C:\Users\laras\AppData\Local\Programs\MiKTeX\tex/latex/amsmath\amstext.sty
 Package: amstext 2024/11/17 v2.01 AMS text
- (C:\Users\laras\AppData\Local\Programs\MiKTeX\tex/latex/amsmath\amsgen.sty
+
+(C:\Users\laras\AppData\Local\Programs\MiKTeX\tex/latex/amsmath\amsgen.sty
 File: amsgen.sty 1999/11/30 v2.0 generic functions
 \@emptytoks=\toks26
 \ex@=\dimen176
-)) (C:\Users\laras\AppData\Local\Programs\MiKTeX\tex/latex/amsmath\amsbsy.sty
+))
+(C:\Users\laras\AppData\Local\Programs\MiKTeX\tex/latex/amsmath\amsbsy.sty
 Package: amsbsy 1999/11/29 v1.2d Bold Symbols
 \pmbraise@=\dimen177
-) (C:\Users\laras\AppData\Local\Programs\MiKTeX\tex/latex/amsmath\amsopn.sty
+)
+(C:\Users\laras\AppData\Local\Programs\MiKTeX\tex/latex/amsmath\amsopn.sty
 Package: amsopn 2022/04/08 v2.04 operator names
 )
 \inf@bad=\count327
@@ -342,16 +394,19 @@ LaTeX Info: Redefining \Relbar on input line 970.
 \mathdisplay@stack=\toks30
 LaTeX Info: Redefining \[ on input line 2950.
 LaTeX Info: Redefining \] on input line 2951.
-) (C:\Users\laras\AppData\Local\Programs\MiKTeX\tex/latex/amsfonts\amssymb.sty
+)
+(C:\Users\laras\AppData\Local\Programs\MiKTeX\tex/latex/amsfonts\amssymb.sty
 Package: amssymb 2013/01/14 v3.01 AMS font symbols
- (C:\Users\laras\AppData\Local\Programs\MiKTeX\tex/latex/amsfonts\amsfonts.sty
+
+(C:\Users\laras\AppData\Local\Programs\MiKTeX\tex/latex/amsfonts\amsfonts.sty
 Package: amsfonts 2013/01/14 v3.01 Basic AMSFonts support
 \symAMSa=\mathgroup4
 \symAMSb=\mathgroup5
 LaTeX Font Info:    Redeclaring math symbol \hbar on input line 98.
 LaTeX Font Info:    Overwriting math alphabet `\mathfrak' in version `bold'
 (Font)                  U/euf/m/n --> U/euf/b/n on input line 106.
-)) (C:\Users\laras\AppData\Local\Programs\MiKTeX\tex/latex/enumitem\enumitem.sty
+)) (C:\Users\laras\AppData\Local\Programs\MiKTeX\tex/latex/enumitem\enumitem.st
+y
 Package: enumitem 2025/02/06 v3.11 Customized lists
 \labelindent=\skip104
 \enit@outerparindent=\dimen185
@@ -361,11 +416,13 @@ Package: enumitem 2025/02/06 v3.11 Customized lists
 \enitdp@description=\count340
 ) (C:\Users\laras\AppData\Local\Programs\MiKTeX\tex/latex/parskip\parskip.sty
 Package: parskip 2021-03-14 v2.0h non-zero parskip adjustments
- (C:\Users\laras\AppData\Local\Programs\MiKTeX\tex/latex/kvoptions\kvoptions.sty
+
+(C:\Users\laras\AppData\Local\Programs\MiKTeX\tex/latex/kvoptions\kvoptions.sty
 Package: kvoptions 2022-06-15 v3.15 Key value format for package options (HO)
- (C:\Users\laras\AppData\Local\Programs\MiKTeX\tex/generic/ltxcmds\ltxcmds.sty
+(C:\Users\laras\AppData\Local\Programs\MiKTeX\tex/generic/ltxcmds\ltxcmds.sty
 Package: ltxcmds 2023-12-04 v1.26 LaTeX kernel commands for general use (HO)
-) (C:\Users\laras\AppData\Local\Programs\MiKTeX\tex/latex/kvsetkeys\kvsetkeys.sty
+)
+(C:\Users\laras\AppData\Local\Programs\MiKTeX\tex/latex/kvsetkeys\kvsetkeys.sty
 Package: kvsetkeys 2022-10-05 v1.19 Key value parser (HO)
 ))) (C:\Users\laras\AppData\Local\Programs\MiKTeX\tex/latex/tools\longtable.sty
 Package: longtable 2025-10-13 v4.24 Multi-page Table package (DPC)
@@ -404,30 +461,45 @@ Package: booktabs 2020/01/12 v1.61803398 Publication quality tables
 \@thisruleclass=\count348
 \@lastruleclass=\count349
 \@thisrulewidth=\dimen199
-) (C:\Users\laras\AppData\Local\Programs\MiKTeX\tex/latex/datetime2\datetime2.sty
+)
+(C:\Users\laras\AppData\Local\Programs\MiKTeX\tex/latex/datetime2\datetime2.sty
 Package: datetime2 2021/03/21 v1.5.7 (NLCT) date and time formats
- (C:\Users\laras\AppData\Local\Programs\MiKTeX\tex/latex/tracklang\tracklang.sty
+
+(C:\Users\laras\AppData\Local\Programs\MiKTeX\tex/latex/tracklang\tracklang.sty
 Package: tracklang 2026/05/24 v1.6.8 (NLCT) Track Languages
- (C:\Users\laras\AppData\Local\Programs\MiKTeX\tex/generic/tracklang\tracklang.tex)
-Package tracklang Info: Tracking dialect `indonesian' (language `bahasai') on input line 264.
-Package tracklang Info: Tracking dialect `indonesian' (language `bahasai') on input line 264.
-) (C:\Users\laras\AppData\Local\Programs\MiKTeX\tex/latex/xkeyval\xkeyval.sty
+
+(C:\Users\laras\AppData\Local\Programs\MiKTeX\tex/generic/tracklang\tracklang.t
+ex)
+Package tracklang Info: Tracking dialect `indonesian' (language `bahasai') on i
+nput line 264.
+Package tracklang Info: Tracking dialect `indonesian' (language `bahasai') on i
+nput line 264.
+)
+(C:\Users\laras\AppData\Local\Programs\MiKTeX\tex/latex/xkeyval\xkeyval.sty
 Package: xkeyval 2022/06/16 v2.9 package option processing (HA)
- (C:\Users\laras\AppData\Local\Programs\MiKTeX\tex/generic/xkeyval\xkeyval.tex (C:\Users\laras\AppData\Local\Programs\MiKTeX\tex/generic/xkeyval\xkvutils.tex
+
+(C:\Users\laras\AppData\Local\Programs\MiKTeX\tex/generic/xkeyval\xkeyval.tex
+(C:\Users\laras\AppData\Local\Programs\MiKTeX\tex/generic/xkeyval\xkvutils.tex
 \XKV@toks=\toks33
 \XKV@tempa@toks=\toks34
 )
 \XKV@depth=\count350
 File: xkeyval.tex 2014/12/03 v2.7a key=value parser (HA)
 ))
-Package tracklang Info: Tracking dialect `bahasai' (language `bahasai') on input line 217.
- (C:\Users\laras\AppData\Local\Programs\MiKTeX\tex/latex/datetime2-bahasai\datetime2-bahasai.ldf
+Package tracklang Info: Tracking dialect `bahasai' (language `bahasai') on inpu
+t line 217.
+
+(C:\Users\laras\AppData\Local\Programs\MiKTeX\tex/latex/datetime2-bahasai\datet
+ime2-bahasai.ldf
 File: datetime2-bahasai.ldf 2018/01/10 v1.01
-)) (C:\Users\laras\AppData\Local\Programs\MiKTeX\tex/latex/geometry\geometry.sty
+))
+(C:\Users\laras\AppData\Local\Programs\MiKTeX\tex/latex/geometry\geometry.sty
 Package: geometry 2026/03/07 v6.0 Page Geometry
- (C:\Users\laras\AppData\Local\Programs\MiKTeX\tex/generic/iftex\ifvtex.sty
+
+(C:\Users\laras\AppData\Local\Programs\MiKTeX\tex/generic/iftex\ifvtex.sty
 Package: ifvtex 2019/10/25 v1.7 ifvtex legacy package. Use iftex instead.
- (C:\Users\laras\AppData\Local\Programs\MiKTeX\tex/generic/iftex\iftex.sty
+
+(C:\Users\laras\AppData\Local\Programs\MiKTeX\tex/generic/iftex\iftex.sty
 Package: iftex 2024/12/12 v1.0g TeX engine tests
 ))
 \Gm@cnth=\count351
@@ -442,14 +514,21 @@ Package: iftex 2024/12/12 v1.0g TeX engine tests
 \Gm@layouthoffset=\dimen262
 \Gm@layoutvoffset=\dimen263
 \Gm@dimlist=\toks35
- (C:\Users\laras\AppData\Local\Programs\MiKTeX\tex/latex/geometry\geometry.cfg)) (C:\Users\laras\AppData\Local\Programs\MiKTeX\tex/latex/algorithms\algorithm.sty
+
+(C:\Users\laras\AppData\Local\Programs\MiKTeX\tex/latex/geometry\geometry.cfg))
+
+(C:\Users\laras\AppData\Local\Programs\MiKTeX\tex/latex/algorithms\algorithm.st
+y
 Invalid UTF-8 byte or sequence at line 11 replaced by U+FFFD.
-Package: algorithm 2009/08/24 v0.1 Document Style `algorithm' - floating environment
+Package: algorithm 2009/08/24 v0.1 Document Style `algorithm' - floating enviro
+nment
  (C:\Users\laras\AppData\Local\Programs\MiKTeX\tex/latex/base\ifthen.sty
 Package: ifthen 2024/03/16 v1.1e Standard LaTeX ifthen package (DPC)
 )
 \c@algorithm=\count354
-) (C:\Users\laras\AppData\Local\Programs\MiKTeX\tex/latex/algorithmicx\algorithmicx.sty
+)
+(C:\Users\laras\AppData\Local\Programs\MiKTeX\tex/latex/algorithmicx\algorithmi
+cx.sty
 Package: algorithmicx 2005/04/27 v1.2 Algorithmicx
 
 Document Style algorithmicx 1.2 - a greatly improved `algorithmic' style
@@ -463,11 +542,14 @@ Document Style algorithmicx 1.2 - a greatly improved `algorithmic' style
 \c@ALG@storecount=\count360
 \c@ALG@tmpcounter=\count361
 \ALG@tmplength=\skip111
-) (C:\Users\laras\AppData\Local\Programs\MiKTeX\tex/latex/algorithmicx\algpseudocode.sty
+)
+(C:\Users\laras\AppData\Local\Programs\MiKTeX\tex/latex/algorithmicx\algpseudoc
+ode.sty
 Package: algpseudocode 
 
 Document Style - pseudocode environments for use with the `algorithmicx' style
-) (C:\Users\laras\AppData\Local\Programs\MiKTeX\tex/latex/microtype\microtype.sty
+)
+(C:\Users\laras\AppData\Local\Programs\MiKTeX\tex/latex/microtype\microtype.sty
 Package: microtype 2026/03/01 v3.2d Micro-typographical refinements (RS)
 \MT@toks=\toks36
 \MT@tempbox=\box67
@@ -481,14 +563,17 @@ LaTeX Info: Redefining \textls on input line 1449.
 LaTeX Info: Redefining \microtypecontext on input line 2053.
 LaTeX Info: Redefining \textmicrotypecontext on input line 2070.
 \MT@listname@count=\count363
- (C:\Users\laras\AppData\Local\Programs\MiKTeX\tex/latex/microtype\microtype-xetex.def
+
+(C:\Users\laras\AppData\Local\Programs\MiKTeX\tex/latex/microtype\microtype-xet
+ex.def
 File: microtype-xetex.def 2026/03/01 v3.2d Definitions specific to xetex (RS)
 LaTeX Info: Redefining \lsstyle on input line 443.
 LaTeX Info: Redefining \lslig on input line 451.
 \MT@outer@space=\skip112
 )
 Package microtype Info: Loading configuration file microtype.cfg.
- (C:\Users\laras\AppData\Local\Programs\MiKTeX\tex/latex/microtype\microtype.cfg
+
+(C:\Users\laras\AppData\Local\Programs\MiKTeX\tex/latex/microtype\microtype.cfg
 File: microtype.cfg 2026/03/01 v3.2d microtype main configuration file (RS)
 )
 LaTeX Info: Redefining \microtypesetup on input line 3065.
@@ -501,10 +586,13 @@ Package: array 2025/09/25 v2.6n Tabular extension package (FMi)
 \extratabsurround=\skip113
 \backup@length=\skip114
 \ar@cellbox=\box69
-) (C:\Users\laras\AppData\Local\Programs\MiKTeX\tex/latex/threeparttable\threeparttable.sty
+)
+(C:\Users\laras\AppData\Local\Programs\MiKTeX\tex/latex/threeparttable\threepar
+ttable.sty
 Package: threeparttable 2003/06/13  v 3.0
 \@tempboxb=\box70
-) (C:\Users\laras\AppData\Local\Programs\MiKTeX\tex/latex/tools\tabularx.sty
+)
+(C:\Users\laras\AppData\Local\Programs\MiKTeX\tex/latex/tools\tabularx.sty
 Package: tabularx 2023/12/11 v2.12a `tabularx' package (DPC)
 \TX@col@width=\dimen267
 \TX@old@table=\dimen268
@@ -513,13 +601,15 @@ Package: tabularx 2023/12/11 v2.12a `tabularx' package (DPC)
 \TX@delta=\dimen271
 \TX@cols=\count364
 \TX@ftn=\toks39
-) (C:\Users\laras\AppData\Local\Programs\MiKTeX\tex/latex/xcolor\xcolor.sty
+)
+(C:\Users\laras\AppData\Local\Programs\MiKTeX\tex/latex/xcolor\xcolor.sty
 Package: xcolor 2024/09/29 v3.02 LaTeX color extensions (UK)
- (C:\Users\laras\AppData\Local\Programs\MiKTeX\tex/latex/graphics-cfg\color.cfg
+
+(C:\Users\laras\AppData\Local\Programs\MiKTeX\tex/latex/graphics-cfg\color.cfg
 File: color.cfg 2016/01/02 v1.6 sample color configuration
 )
 Package xcolor Info: Driver file: xetex.def on input line 274.
- (C:\Users\laras\AppData\Local\Programs\MiKTeX\tex/latex/graphics\mathcolor.ltx)
+(C:\Users\laras\AppData\Local\Programs\MiKTeX\tex/latex/graphics\mathcolor.ltx)
 Package xcolor Info: Model `cmy' substituted by `cmy0' on input line 1349.
 Package xcolor Info: Model `RGB' extended on input line 1365.
 Package xcolor Info: Model `HTML' substituted by `rgb' on input line 1367.
@@ -535,30 +625,47 @@ Package: appendix 2020/02/08 v1.2c extra appendix facilities
 \c@@ppsaveapp=\count367
 ) (C:\Users\laras\AppData\Local\Programs\MiKTeX\tex/latex/hyperref\hyperref.sty
 Package: hyperref 2025-07-12 v7.01o Hypertext links for LaTeX
- (C:\Users\laras\AppData\Local\Programs\MiKTeX\tex/generic/kvdefinekeys\kvdefinekeys.sty
+
+(C:\Users\laras\AppData\Local\Programs\MiKTeX\tex/generic/kvdefinekeys\kvdefine
+keys.sty
 Package: kvdefinekeys 2019-12-19 v1.6 Define keys (HO)
-) (C:\Users\laras\AppData\Local\Programs\MiKTeX\tex/generic/pdfescape\pdfescape.sty
+)
+(C:\Users\laras\AppData\Local\Programs\MiKTeX\tex/generic/pdfescape\pdfescape.s
+ty
 Package: pdfescape 2019/12/09 v1.15 Implements pdfTeX's escape features (HO)
- (C:\Users\laras\AppData\Local\Programs\MiKTeX\tex/generic/pdftexcmds\pdftexcmds.sty
-Package: pdftexcmds 2020-06-27 v0.33 Utility functions of pdfTeX for LuaTeX (HO)
- (C:\Users\laras\AppData\Local\Programs\MiKTeX\tex/generic/infwarerr\infwarerr.sty
+
+(C:\Users\laras\AppData\Local\Programs\MiKTeX\tex/generic/pdftexcmds\pdftexcmds
+.sty
+Package: pdftexcmds 2020-06-27 v0.33 Utility functions of pdfTeX for LuaTeX (HO
+)
+
+(C:\Users\laras\AppData\Local\Programs\MiKTeX\tex/generic/infwarerr\infwarerr.s
+ty
 Package: infwarerr 2019/12/03 v1.5 Providing info/warning/error messages (HO)
 )
 Package pdftexcmds Info: \pdf@primitive is available.
 Package pdftexcmds Info: \pdf@ifprimitive is available.
 Package pdftexcmds Info: \pdfdraftmode not found.
-)) (C:\Users\laras\AppData\Local\Programs\MiKTeX\tex/latex/hycolor\hycolor.sty
+))
+(C:\Users\laras\AppData\Local\Programs\MiKTeX\tex/latex/hycolor\hycolor.sty
 Package: hycolor 2020-01-27 v1.10 Color options for hyperref/bookmark (HO)
-) (C:\Users\laras\AppData\Local\Programs\MiKTeX\tex/latex/hyperref\nameref.sty
+)
+(C:\Users\laras\AppData\Local\Programs\MiKTeX\tex/latex/hyperref\nameref.sty
 Package: nameref 2025-06-21 v2.57 Cross-referencing by name of section
- (C:\Users\laras\AppData\Local\Programs\MiKTeX\tex/latex/refcount\refcount.sty
+
+(C:\Users\laras\AppData\Local\Programs\MiKTeX\tex/latex/refcount\refcount.sty
 Package: refcount 2019/12/15 v3.6 Data extraction from label references (HO)
-) (C:\Users\laras\AppData\Local\Programs\MiKTeX\tex/generic/gettitlestring\gettitlestring.sty
+)
+(C:\Users\laras\AppData\Local\Programs\MiKTeX\tex/generic/gettitlestring\gettit
+lestring.sty
 Package: gettitlestring 2019/12/15 v1.6 Cleanup title references (HO)
 )
 \c@section@level=\count368
-) (C:\Users\laras\AppData\Local\Programs\MiKTeX\tex/generic/stringenc\stringenc.sty
-Package: stringenc 2019/11/29 v1.12 Convert strings between diff. encodings (HO)
+)
+(C:\Users\laras\AppData\Local\Programs\MiKTeX\tex/generic/stringenc\stringenc.s
+ty
+Package: stringenc 2019/11/29 v1.12 Convert strings between diff. encodings (HO
+)
 )
 \@linkdim=\dimen272
 \Hy@linkcounter=\count369
@@ -580,16 +687,21 @@ Package hyperref Info: Backreferencing OFF on input line 4215.
 Package hyperref Info: Implicit mode ON; LaTeX internals redefined.
 Package hyperref Info: Bookmarks ON on input line 4462.
 \c@Hy@tempcnt=\count372
- (C:\Users\laras\AppData\Local\Programs\MiKTeX\tex/latex/url\url.sty
+
+(C:\Users\laras\AppData\Local\Programs\MiKTeX\tex/latex/url\url.sty
 \Urlmuskip=\muskip18
 Package: url 2013/09/16  ver 3.4  Verb mode for urls, etc.
 )
 LaTeX Info: Redefining \url on input line 4801.
 \XeTeXLinkMargin=\dimen273
- (C:\Users\laras\AppData\Local\Programs\MiKTeX\tex/generic/bitset\bitset.sty
+
+(C:\Users\laras\AppData\Local\Programs\MiKTeX\tex/generic/bitset\bitset.sty
 Package: bitset 2019/12/09 v1.3 Handle bit-vector datatype (HO)
- (C:\Users\laras\AppData\Local\Programs\MiKTeX\tex/generic/bigintcalc\bigintcalc.sty
-Package: bigintcalc 2019/12/15 v1.5 Expandable calculations on big integers (HO)
+
+(C:\Users\laras\AppData\Local\Programs\MiKTeX\tex/generic/bigintcalc\bigintcalc
+.sty
+Package: bigintcalc 2019/12/15 v1.5 Expandable calculations on big integers (HO
+)
 ))
 \Fld@menulength=\count373
 \Field@Width=\dimen274
@@ -606,19 +718,25 @@ Package hyperref Info: PDF/A mode OFF on input line 6108.
 \c@Hfootnote=\count376
 )
 Package hyperref Info: Driver (autodetected): hxetex.
- (C:\Users\laras\AppData\Local\Programs\MiKTeX\tex/latex/hyperref\hxetex.def
+
+(C:\Users\laras\AppData\Local\Programs\MiKTeX\tex/latex/hyperref\hxetex.def
 File: hxetex.def 2025-07-12 v7.01o Hyperref driver for XeTeX
 \pdfm@box=\box71
 \c@Hy@AnnotLevel=\count377
 \HyField@AnnotCount=\count378
 \Fld@listcount=\count379
 \c@bookmark@seq@number=\count380
- (C:\Users\laras\AppData\Local\Programs\MiKTeX\tex/latex/rerunfilecheck\rerunfilecheck.sty
+
+(C:\Users\laras\AppData\Local\Programs\MiKTeX\tex/latex/rerunfilecheck\rerunfil
+echeck.sty
 Package: rerunfilecheck 2025-06-21 v1.11 Rerun checks for auxiliary files (HO)
- (C:\Users\laras\AppData\Local\Programs\MiKTeX\tex/generic/uniquecounter\uniquecounter.sty
+
+(C:\Users\laras\AppData\Local\Programs\MiKTeX\tex/generic/uniquecounter\uniquec
+ounter.sty
 Package: uniquecounter 2019/12/15 v1.4 Provide unlimited unique counter (HO)
 )
-Package uniquecounter Info: New unique counter `rerunfilecheck' on input line 284.
+Package uniquecounter Info: New unique counter `rerunfilecheck' on input line 2
+84.
 )
 \Hy@SectionHShift=\skip115
 )
@@ -633,29 +751,37 @@ Package fontspec Info:
 (fontspec)             - 'normal' (m/n) with NFSS spec.: <->"Times New
 (fontspec)             Roman/OT:script=latn;language=dflt;mapping=tex-text;"
 (fontspec)             - 'small caps'  (m/sc) with NFSS spec.: <->"Times New
-(fontspec)             Roman/OT:script=latn;language=dflt;+smcp;mapping=tex-text;"
+(fontspec)             Roman/OT:script=latn;language=dflt;+smcp;mapping=tex-tex
+t;"
 (fontspec)             - 'bold' (b/n) with NFSS spec.: <->"Times New
 (fontspec)             Roman/B/OT:script=latn;language=dflt;mapping=tex-text;"
 (fontspec)             - 'bold small caps'  (b/sc) with NFSS spec.: <->"Times
 (fontspec)             New
-(fontspec)             Roman/B/OT:script=latn;language=dflt;+smcp;mapping=tex-text;"
+(fontspec)             Roman/B/OT:script=latn;language=dflt;+smcp;mapping=tex-t
+ext;"
 (fontspec)             - 'italic' (m/it) with NFSS spec.: <->"Times New
 (fontspec)             Roman/I/OT:script=latn;language=dflt;mapping=tex-text;"
 (fontspec)             - 'italic small caps'  (m/scit) with NFSS spec.:
 (fontspec)             <->"Times New
-(fontspec)             Roman/I/OT:script=latn;language=dflt;+smcp;mapping=tex-text;"
+(fontspec)             Roman/I/OT:script=latn;language=dflt;+smcp;mapping=tex-t
+ext;"
 (fontspec)             - 'bold italic' (b/it) with NFSS spec.: <->"Times New
 (fontspec)             Roman/BI/OT:script=latn;language=dflt;mapping=tex-text;"
+
 (fontspec)             - 'bold italic small caps'  (b/scit) with NFSS spec.:
 (fontspec)             <->"Times New
-(fontspec)             Roman/BI/OT:script=latn;language=dflt;+smcp;mapping=tex-text;"
+(fontspec)             Roman/BI/OT:script=latn;language=dflt;+smcp;mapping=tex-
+text;"
 
- (C:\Users\laras\AppData\Local\Programs\MiKTeX\tex/latex/biblatex\biblatex.sty
+
+(C:\Users\laras\AppData\Local\Programs\MiKTeX\tex/latex/biblatex\biblatex.sty
 Package: biblatex 2025/07/10 v3.21 programmable bibliographies (PK/MW)
- (C:\Users\laras\AppData\Local\Programs\MiKTeX\tex/latex/logreq\logreq.sty
+
+(C:\Users\laras\AppData\Local\Programs\MiKTeX\tex/latex/logreq\logreq.sty
 Package: logreq 2010/08/04 v1.0 xml request logger
 \lrq@indent=\count381
- (C:\Users\laras\AppData\Local\Programs\MiKTeX\tex/latex/logreq\logreq.def
+
+(C:\Users\laras\AppData\Local\Programs\MiKTeX\tex/latex/logreq\logreq.def
 File: logreq.def 2010/08/04 v1.0 logreq spec v1.0
 ))
 \c@tabx@nest=\count382
@@ -717,12 +843,14 @@ File: logreq.def 2010/08/04 v1.0 logreq spec v1.0
 \c@mincompwidth=\count427
 Package biblatex Info: Trying to load biblatex default data model...
 Package biblatex Info: ... file 'blx-dm.def' found.
- (C:\Users\laras\AppData\Local\Programs\MiKTeX\tex/latex/biblatex\blx-dm.def
+
+(C:\Users\laras\AppData\Local\Programs\MiKTeX\tex/latex/biblatex\blx-dm.def
 File: blx-dm.def 2025/07/10 v3.21 biblatex datamodel (PK/MW)
 )
 Package biblatex Info: Trying to load biblatex style data model...
 Package biblatex Info: ... file 'apa.dbx' found.
- (C:\Users\laras\AppData\Local\Programs\MiKTeX\tex/latex/biblatex-apa\apa.dbx
+
+(C:\Users\laras\AppData\Local\Programs\MiKTeX\tex/latex/biblatex-apa\apa.dbx
 File: apa.dbx 2025/08/27 v9.20 APA biblatex style data model
 )
 Package biblatex Info: Trying to load biblatex custom data model...
@@ -821,10 +949,13 @@ Package biblatex Info: ... file 'biblatex-dm.cfg' not found.
 \localshorteditorwidth=\skip137
 Package biblatex Info: Trying to load enhanced support for Unicode engines...
 Package biblatex Info: ... file 'blx-unicode.def' found.
- (C:\Users\laras\AppData\Local\Programs\MiKTeX\tex/latex/biblatex\blx-unicode.def)
+
+(C:\Users\laras\AppData\Local\Programs\MiKTeX\tex/latex/biblatex\blx-unicode.de
+f)
 Package biblatex Info: Trying to load compatibility code...
 Package biblatex Info: ... file 'blx-compat.def' found.
- (C:\Users\laras\AppData\Local\Programs\MiKTeX\tex/latex/biblatex\blx-compat.def
+
+(C:\Users\laras\AppData\Local\Programs\MiKTeX\tex/latex/biblatex\blx-compat.def
 File: blx-compat.def 2025/07/10 v3.21 biblatex compatibility (PK/MW)
 )
 Package biblatex Info: Trying to load generic definitions...
@@ -851,22 +982,31 @@ Package biblatex Info: ... file 'apa.bbx' found.
 File: apa.bbx 2025/08/27 v9.20 APA biblatex references style
 Package biblatex Info: Trying to load bibliography style 'standard'...
 Package biblatex Info: ... file 'standard.bbx' found.
- (C:\Users\laras\AppData\Local\Programs\MiKTeX\tex/latex/biblatex/bbx\standard.bbx
+
+(C:\Users\laras\AppData\Local\Programs\MiKTeX\tex/latex/biblatex/bbx\standard.b
+bx
 File: standard.bbx 2025/07/10 v3.21 biblatex bibliography style (PK/MW)
 \c@bbx:relatedcount=\count515
 \c@bbx:relatedtotal=\count516
 )
-Package biblatex Info: Delimiter 'nameyeardelim' in context 'bib' already defined, overwriting.
-Package biblatex Info: Delimiter 'nameyeardelim' in context 'biblist' already defined, overwriting.
-Package biblatex Info: Delimiter 'nonameyeardelim' in context 'bib' already defined, overwriting.
-Package biblatex Info: Delimiter 'nonameyeardelim' in context 'biblist' already defined, overwriting.
+Package biblatex Info: Delimiter 'nameyeardelim' in context 'bib' already defin
+ed, overwriting.
+Package biblatex Info: Delimiter 'nameyeardelim' in context 'biblist' already d
+efined, overwriting.
+Package biblatex Info: Delimiter 'nonameyeardelim' in context 'bib' already def
+ined, overwriting.
+Package biblatex Info: Delimiter 'nonameyeardelim' in context 'biblist' already
+ defined, overwriting.
 )
 Package biblatex Info: Trying to load citation style 'apa'...
 Package biblatex Info: ... file 'apa.cbx' found.
- (C:\Users\laras\AppData\Local\Programs\MiKTeX\tex/latex/biblatex-apa\apa.cbx
+
+(C:\Users\laras\AppData\Local\Programs\MiKTeX\tex/latex/biblatex-apa\apa.cbx
 File: apa.cbx 2025/08/27 v9.20 APA biblatex citation style
-Package biblatex Info: Delimiter 'nameyeardelim' in context '' already defined, overwriting.
-Package biblatex Info: Delimiter 'andothersdelim' in context '' already defined, overwriting.
+Package biblatex Info: Delimiter 'nameyeardelim' in context '' already defined,
+ overwriting.
+Package biblatex Info: Delimiter 'andothersdelim' in context '' already defined
+, overwriting.
 Package biblatex Info: Redefining '\fullcite'.
 Package biblatex Info: Redefining '\citeauthor'.
 Package biblatex Info: Redefining '\citeyear'.
@@ -885,7 +1025,8 @@ Package biblatex Info: Redefining '\textcites'.
 )
 Package biblatex Info: Trying to load configuration file...
 Package biblatex Info: ... file 'biblatex.cfg' found.
- (C:\Users\laras\AppData\Local\Programs\MiKTeX\tex/latex/biblatex\biblatex.cfg
+
+(C:\Users\laras\AppData\Local\Programs\MiKTeX\tex/latex/biblatex\biblatex.cfg
 File: biblatex.cfg 
 )
 Package biblatex Info: XeTeX detected.
@@ -895,7 +1036,9 @@ Package biblatex Info: ... and expl3
 (biblatex)             2025-12-24 L3 programming layer (loader) 
 (biblatex)             is new enough (at least 2020/04/06),
 (biblatex)             setting 'casechanger=expl3'.
- (C:\Users\laras\AppData\Local\Programs\MiKTeX\tex/latex/biblatex\blx-case-expl3.sty
+
+(C:\Users\laras\AppData\Local\Programs\MiKTeX\tex/latex/biblatex\blx-case-expl3
+.sty
 Package: blx-case-expl3 2025/07/10 v3.21 expl3 case changing code for biblatex
 ))
 Package hyperref Info: Option `colorlinks' set `true' on input line 93.
@@ -906,13 +1049,13 @@ Package hyperref Info: Option `colorlinks' set `true' on input line 93.
 \c@equdepth=\count518
 \cftbeforeequtitleskip=\skip141
 \cftafterequtitleskip=\skip142
- (C:\Users\laras\AppData\Local\Programs\MiKTeX\tex/latex/listings\lstlang1.sty
+
+(C:\Users\laras\AppData\Local\Programs\MiKTeX\tex/latex/listings\lstlang1.sty
 File: lstlang1.sty 2025/11/14 1.11b listings language file
 ))
 Package csquotes Info: Checking for multilingual support...
 Package csquotes Info: ... found 'babel' package.
 Package csquotes Info: Adjusting default style.
-
 
 Package csquotes Warning: No style for language 'indonesian'.
 (csquotes)                Using fallback style on input line 6.
@@ -975,25 +1118,32 @@ LaTeX Font Info:    Redeclaring symbol font `operators' on input line 6.
 LaTeX Font Info:    Encoding `OT1' has changed to `TU' for symbol font
 (Font)              `operators' in the math version `normal' on input line 6.
 LaTeX Font Info:    Overwriting symbol font `operators' in version `normal'
-(Font)                  OT1/cmr/m/n --> TU/TimesNewRoman(0)/m/n on input line 6.
+(Font)                  OT1/cmr/m/n --> TU/TimesNewRoman(0)/m/n on input line 6
+.
 LaTeX Font Info:    Encoding `OT1' has changed to `TU' for symbol font
 (Font)              `operators' in the math version `bold' on input line 6.
 LaTeX Font Info:    Overwriting symbol font `operators' in version `bold'
-(Font)                  OT1/cmr/bx/n --> TU/TimesNewRoman(0)/m/n on input line 6.
+(Font)                  OT1/cmr/bx/n --> TU/TimesNewRoman(0)/m/n on input line 
+6.
 LaTeX Font Info:    Overwriting symbol font `operators' in version `normal'
-(Font)                  TU/TimesNewRoman(0)/m/n --> TU/TimesNewRoman(0)/m/n on input line 6.
+(Font)                  TU/TimesNewRoman(0)/m/n --> TU/TimesNewRoman(0)/m/n on 
+input line 6.
 LaTeX Font Info:    Overwriting math alphabet `\mathit' in version `normal'
-(Font)                  OT1/cmr/m/it --> TU/TimesNewRoman(0)/m/it on input line 6.
+(Font)                  OT1/cmr/m/it --> TU/TimesNewRoman(0)/m/it on input line
+ 6.
 LaTeX Font Info:    Overwriting math alphabet `\mathbf' in version `normal'
-(Font)                  OT1/cmr/bx/n --> TU/TimesNewRoman(0)/b/n on input line 6.
+(Font)                  OT1/cmr/bx/n --> TU/TimesNewRoman(0)/b/n on input line 
+6.
 LaTeX Font Info:    Overwriting math alphabet `\mathsf' in version `normal'
 (Font)                  OT1/cmss/m/n --> TU/lmss/m/n on input line 6.
 LaTeX Font Info:    Overwriting math alphabet `\mathtt' in version `normal'
 (Font)                  OT1/cmtt/m/n --> TU/lmtt/m/n on input line 6.
 LaTeX Font Info:    Overwriting symbol font `operators' in version `bold'
-(Font)                  TU/TimesNewRoman(0)/m/n --> TU/TimesNewRoman(0)/b/n on input line 6.
+(Font)                  TU/TimesNewRoman(0)/m/n --> TU/TimesNewRoman(0)/b/n on 
+input line 6.
 LaTeX Font Info:    Overwriting math alphabet `\mathit' in version `bold'
-(Font)                  OT1/cmr/bx/it --> TU/TimesNewRoman(0)/b/it on input line 6.
+(Font)                  OT1/cmr/bx/it --> TU/TimesNewRoman(0)/b/it on input lin
+e 6.
 LaTeX Font Info:    Overwriting math alphabet `\mathsf' in version `bold'
 (Font)                  OT1/cmss/bx/n --> TU/lmss/b/n on input line 6.
 LaTeX Font Info:    Overwriting math alphabet `\mathtt' in version `bold'
@@ -1005,14 +1155,18 @@ Package caption Info: floatrow package is loaded.
 Package caption Info: hyperref package is loaded.
 Package caption Info: listings package is loaded.
 Package caption Info: longtable package is loaded.
- (C:\Users\laras\AppData\Local\Programs\MiKTeX\tex/latex/caption\ltcaption.sty
+
+(C:\Users\laras\AppData\Local\Programs\MiKTeX\tex/latex/caption\ltcaption.sty
 Package: ltcaption 2021/01/08 v1.4c longtable captions (AR)
 )
 Package caption Info: Fixing longtable code of `floatrow' package.
 Package caption Info: threeparttable package is loaded.
 Package caption Info: End \AtBeginDocument code.
- (C:\Users\laras\AppData\Local\Programs\MiKTeX\tex/latex/floatrow\fr-longtable.sty
+
+(C:\Users\laras\AppData\Local\Programs\MiKTeX\tex/latex/floatrow\fr-longtable.s
+ty
 Package: fr-longtable 2007/11/28 v0.1b (beta) floatrow: additions for longtable
+
 \flrow@LT@lasthead=\box72
 \flrow@LT@prelastfoot=\box73
 \c@FBLTpage=\count519
@@ -1070,44 +1224,59 @@ Package microtype Info: Loading generic protrusion settings for font family
 (microtype)             For optimal results, create family-specific settings.
 (microtype)             See the microtype manual for details.
 Package hyperref Info: Link coloring ON on input line 6.
+(ProposalTA.out) (ProposalTA.out)
 \@outlinefile=\write4
 \openout4 = `ProposalTA.out'.
 
-
-Package hyperref Warning: Rerun to get /PageLabels entry.
-
 Package biblatex Info: Trying to load language 'indonesian' -> 'english-apa'...
+
 Package biblatex Info: ... file 'english-apa.lbx' found.
-(C:\Users\laras\AppData\Local\Programs\MiKTeX\tex/latex/biblatex-apa\english-apa.lbx
+
+(C:\Users\laras\AppData\Local\Programs\MiKTeX\tex/latex/biblatex-apa\english-ap
+a.lbx
 File: english-apa.lbx 2025/08/27 v9.20 APA biblatex localisation
 Package biblatex Info: Trying to load language 'english' -> 'english-apa'...
 Package biblatex Info: ... file 'english-apa.lbx' found.
- (C:\Users\laras\AppData\Local\Programs\MiKTeX\tex/latex/biblatex-apa\english-apa.lbx
+
+(C:\Users\laras\AppData\Local\Programs\MiKTeX\tex/latex/biblatex-apa\english-ap
+a.lbx
 File: english-apa.lbx 2025/08/27 v9.20 APA biblatex localisation
 Package biblatex Info: Trying to load language 'english'...
 Package biblatex Info: ... file 'english.lbx' found.
- (C:\Users\laras\AppData\Local\Programs\MiKTeX\tex/latex/biblatex/lbx\english.lbx
+
+(C:\Users\laras\AppData\Local\Programs\MiKTeX\tex/latex/biblatex/lbx\english.lb
+x
 File: english.lbx 2025/07/10 v3.21 biblatex localization (PK/MW)
 ))
 Package biblatex Info: Trying to load language 'american' -> 'american-apa'...
 Package biblatex Info: ... file 'american-apa.lbx' found.
- (C:\Users\laras\AppData\Local\Programs\MiKTeX\tex/latex/biblatex-apa\american-apa.lbx
+
+(C:\Users\laras\AppData\Local\Programs\MiKTeX\tex/latex/biblatex-apa\american-a
+pa.lbx
 File: american-apa.lbx 2025/08/27 v9.20 APA biblatex localisation
 Package biblatex Info: Trying to load language 'american'...
 Package biblatex Info: ... file 'american.lbx' found.
- (C:\Users\laras\AppData\Local\Programs\MiKTeX\tex/latex/biblatex/lbx\american.lbx
+
+(C:\Users\laras\AppData\Local\Programs\MiKTeX\tex/latex/biblatex/lbx\american.l
+bx
 File: american.lbx 2025/07/10 v3.21 biblatex localization (PK/MW)
 Package biblatex Info: Trying to load language 'english' -> 'english-apa'...
 Package biblatex Info: ... file 'english-apa.lbx' found.
- (C:\Users\laras\AppData\Local\Programs\MiKTeX\tex/latex/biblatex-apa\english-apa.lbx
+
+(C:\Users\laras\AppData\Local\Programs\MiKTeX\tex/latex/biblatex-apa\english-ap
+a.lbx
 File: english-apa.lbx 2025/08/27 v9.20 APA biblatex localisation
 Package biblatex Info: Trying to load language 'american'...
 Package biblatex Info: ... file 'american.lbx' found.
- (C:\Users\laras\AppData\Local\Programs\MiKTeX\tex/latex/biblatex/lbx\american.lbx
+
+(C:\Users\laras\AppData\Local\Programs\MiKTeX\tex/latex/biblatex/lbx\american.l
+bx
 File: american.lbx 2025/07/10 v3.21 biblatex localization (PK/MW)
 Package biblatex Info: Trying to load language 'english'...
 Package biblatex Info: ... file 'english.lbx' found.
- (C:\Users\laras\AppData\Local\Programs\MiKTeX\tex/latex/biblatex/lbx\english.lbx
+
+(C:\Users\laras\AppData\Local\Programs\MiKTeX\tex/latex/biblatex/lbx\english.lb
+x
 File: english.lbx 2025/07/10 v3.21 biblatex localization (PK/MW)
 ))))))
 Package biblatex Info: XeTeX detected.
@@ -1117,12 +1286,11 @@ Package biblatex Info: Automatic encoding selection.
 \openout3 = `ProposalTA.bcf'.
 
 Package biblatex Info: Trying to load bibliographic data...
-Package biblatex Info: ... file 'ProposalTA.bbl' not found.
-
-No file ProposalTA.bbl.
+Package biblatex Info: ... file 'ProposalTA.bbl' found.
+ (ProposalTA.bbl)
 Package biblatex Info: Reference section=0 on input line 6.
 Package biblatex Info: Reference segment=0 on input line 6.
-(1 Halaman Judul.tex
+ (1 Halaman Judul.tex
 File: images/ganesha.jpg Graphic file (type bmp)
 <images/ganesha.jpg>
 
@@ -1130,7 +1298,7 @@ File: images/ganesha.jpg Graphic file (type bmp)
 Package datetime2 Warning: Region `bahasai' has ignored 
 (datetime2)                the following settings:
 (datetime2)                showmonthname=true
- on input line 37.
+ on input line 36.
 
 [1
 
@@ -1144,135 +1312,126 @@ Underfull \hbox (badness 10000) in paragraph at lines 10--14
  []
 
 LaTeX Font Info:    Trying to load font information for U+msa on input line 15.
+
 (C:\Users\laras\AppData\Local\Programs\MiKTeX\tex/latex/amsfonts\umsa.fd
 File: umsa.fd 2013/01/14 v3.01 AMS symbols A
-) (C:\Users\laras\AppData\Local\Programs\MiKTeX\tex/latex/microtype\mt-msa.cfg
+)
+(C:\Users\laras\AppData\Local\Programs\MiKTeX\tex/latex/microtype\mt-msa.cfg
 File: mt-msa.cfg 2006/02/04 v1.1 microtype config. file: AMS symbols (a) (RS)
 )
 LaTeX Font Info:    Trying to load font information for U+msb on input line 15.
- (C:\Users\laras\AppData\Local\Programs\MiKTeX\tex/latex/amsfonts\umsb.fd
+
+
+(C:\Users\laras\AppData\Local\Programs\MiKTeX\tex/latex/amsfonts\umsb.fd
 File: umsb.fd 2013/01/14 v3.01 AMS symbols B
-) (C:\Users\laras\AppData\Local\Programs\MiKTeX\tex/latex/microtype\mt-msb.cfg
+)
+(C:\Users\laras\AppData\Local\Programs\MiKTeX\tex/latex/microtype\mt-msb.cfg
 File: mt-msb.cfg 2005/06/01 v1.0 microtype config. file: AMS symbols (b) (RS)
-) (C:\Users\laras\AppData\Local\Programs\MiKTeX\tex/latex/microtype\mt-cmr.cfg
-File: mt-cmr.cfg 2013/05/19 v2.2 microtype config. file: Computer Modern Roman (RS)
-)) (3a Deklarasi Penggunaan AI.tex [2
+)
+(C:\Users\laras\AppData\Local\Programs\MiKTeX\tex/latex/microtype\mt-cmr.cfg
+File: mt-cmr.cfg 2013/05/19 v2.2 microtype config. file: Computer Modern Roman 
+(RS)
+))
+(3a Deklarasi Penggunaan AI.tex [2
 
 ]
-Overfull \hbox (3.43965pt too wide) in paragraph at lines 7--7
-[]|\TU/TimesNewRoman(0)/b/n/12 No.| 
+Overfull \hbox (1.89388pt too wide) in paragraph at lines 12--12
+[]|\TU/TimesNewRoman(0)/b/n/10.95 No.| 
  []
 
 
-Underfull \hbox (badness 3291) in paragraph at lines 11--11
-[]|\TU/TimesNewRoman(0)/m/n/12 Microsoft Co-
+Underfull \hbox (badness 1137) in paragraph at lines 16--17
+[]|\TU/TimesNewRoman(0)/m/n/10.95 Bab II dan Subbab
  []
 
 
-Underfull \hbox (badness 5431) in paragraph at lines 11--12
-[]|\TU/TimesNewRoman(0)/m/n/12 Bab II dan Su-
+Underfull \hbox (badness 10000) in paragraph at lines 22--22
+[]|\TU/TimesNewRoman(0)/m/n/10.95 Menjelaskan definisi,
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 15--15
-[]|\TU/TimesNewRoman(0)/m/n/12 Pencarian informasi
+Underfull \hbox (badness 3407) in paragraph at lines 22--22
+\TU/TimesNewRoman(0)/m/n/10.95 konsep, gambar, tabel,
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 17--17
-[]|\TU/TimesNewRoman(0)/m/n/12 Menjelaskan definisi,
+Underfull \hbox (badness 10000) in paragraph at lines 24--24
+[]|\TU/TimesNewRoman(0)/m/n/10.95 Penyusunan kode pro-
  []
 
 
-Underfull \hbox (badness 2269) in paragraph at lines 19--19
-[]|\TU/TimesNewRoman(0)/m/n/12 Penyusunan kode pro-
+Underfull \hbox (badness 10000) in paragraph at lines 26--26
+[]|\TU/TimesNewRoman(0)/m/n/10.95 Penyusunan formula
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 21--21
-[]|\TU/TimesNewRoman(0)/m/n/12 Penyusunan formula
+Underfull \hbox (badness 3557) in paragraph at lines 26--26
+\TU/TimesNewRoman(0)/m/n/10.95 atau perhitungan mate-
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 25--25
-[]|\TU/TimesNewRoman(0)/m/n/12 Penyusunan kesimpul-
- []
-
-
-Overfull \hbox (13.72078pt too wide) in paragraph at lines 5--30
+Overfull \hbox (19.72076pt too wide) in paragraph at lines 10--35
  [][] 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 33--35
+Underfull \hbox (badness 10000) in paragraph at lines 38--39
 
  []
 
-) [3
+) (6 Daftar Isi.tex [3
 
-]
-*geometry* verbose mode - [ newgeometry ] result:
-* driver: xetex
-* paper: a4paper
-* layout: <same size as paper>
-* layoutoffset:(h,v)=(0.0pt,0.0pt)
-* modes: twoside 
-* h-part:(L,W,R)=(113.81102pt, 398.3386pt, 85.35826pt)
-* v-part:(T,H,B)=(85.35826pt, 674.33032pt, 85.35826pt)
-* \paperwidth=597.50787pt
-* \paperheight=845.04684pt
-* \textwidth=398.3386pt
-* \textheight=674.33032pt
-* \oddsidemargin=41.54103pt
-* \evensidemargin=13.08827pt
-* \topmargin=-18.78552pt
-* \headheight=12.0pt
-* \headsep=19.8738pt
-* \topskip=12.0pt
-* \footskip=30.0pt
-* \marginparwidth=38.0pt
-* \marginparsep=7.0pt
-* \columnsep=10.0pt
-* \skip\footins=10.8pt plus 4.0pt minus 2.0pt
-* \hoffset=0.0pt
-* \voffset=0.0pt
-* \mag=1000
-* \@twocolumnfalse
-* \@twosidetrue
-* \@mparswitchtrue
-* \@reversemarginfalse
-* (1in=72.27pt=25.4mm, 1cm=28.453pt)
-
- (6 Daftar Isi.tex [4
-
-
-]
-No file ProposalTA.toc.
+] (ProposalTA.toc)
 \tf@toc=\write5
 \openout5 = `ProposalTA.toc'.
 
-)
+) [4
 
-! LaTeX Error: File `7 Daftar Gambar.tex' not found.
+] (Bab I - Pendahuluan.tex
+Bab I.
+[1
 
-Type X to quit or <RETURN> to proceed,
-or enter new name. (Default extension: tex)
 
-Enter file name: 
-c:/Users/laras/Downloads/Proposal-TA-template-v2-APA/18223118-LarasHatiMahendra-Proposal-TA/ProposalTA.tex:30: Emergency stop.
-<read *> 
-         
-l.30 \input{7 Daftar Gambar.tex}
-                                ^^M
-*** (cannot \read from terminal in nonstop modes)
 
- 
+] [2] [3]
+File: images/Diagram_Metodologi_UCD.png Graphic file (type bmp)
+<images/Diagram_Metodologi_UCD.png>
+ [4]
+Overfull \hbox (1.52655pt too wide) in paragraph at lines 79--81
+\TU/TimesNewRoman(0)/m/n/12 pengguna (misalnya menjaga stamina selama puasa) da
+n menurunkannya men-
+ []
+
+[5]) [6] [7
+
+
+]
+
+Package caption Warning: Unused \captionsetup[lstlisting] on input line 245.
+See the caption package documentation for explanation.
+
+
+Package caption Warning: Unused \captionsetup[algorithm] on input line 256.
+See the caption package documentation for explanation.
+
+(ProposalTA.aux)
+ ***********
+LaTeX2e <2025-11-01>
+L3 programming layer <2025-12-24>
+ ***********
+Package rerunfilecheck Info: File `ProposalTA.out' has not changed.
+(rerunfilecheck)             Checksum: 449A8D0C81C74A4DEBBC7B5AC2ED1914;1357.
+Package logreq Info: Writing requests to 'ProposalTA.run.xml'.
+\openout1 = `ProposalTA.run.xml'.
+
+ ) 
 Here is how much of TeX's memory you used:
- 32407 strings out of 402987
- 622565 string characters out of 5448524
- 1804752 words of memory out of 5000000
- 60767 multiletter control sequences out of 15000+600000
- 632902 words of font info for 81 fonts, out of 8000000 for 9000
+ 32749 strings out of 402987
+ 630396 string characters out of 5448524
+ 1807169 words of memory out of 5000000
+ 61089 multiletter control sequences out of 15000+600000
+ 634482 words of font info for 91 fonts, out of 8000000 for 9000
  1348 hyphenation exceptions out of 8191
- 90i,11n,141p,1295b,7223s stack positions out of 10000i,1000n,20000p,200000b,200000s
-Output written on ProposalTA.xdv (5 pages, 29660 bytes).
+ 90i,10n,141p,1205b,7223s stack positions out of 10000i,1000n,20000p,200000b,200000s
+
+Output written on ProposalTA.pdf (12 pages).

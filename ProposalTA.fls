@@ -276,6 +276,12 @@ INPUT C:\Users\laras\AppData\Local\Programs\MiKTeX\tex\latex\graphics\color.sty
 INPUT C:\Users\laras\AppData\Local\Programs\MiKTeX\tex\latex\graphics\color.sty
 INPUT C:\Users\laras\AppData\Local\Programs\MiKTeX\tex\latex\floatrow\fr-longtable.sty
 INPUT C:\Users\laras\AppData\Local\Programs\MiKTeX\tex\latex\floatrow\fr-longtable.sty
+INPUT .\ProposalTA.out
+INPUT .\ProposalTA.out
+INPUT ProposalTA.out
+INPUT ProposalTA.out
+INPUT .\ProposalTA.out
+INPUT .\ProposalTA.out
 OUTPUT ProposalTA.out
 INPUT C:\Users\laras\AppData\Local\Programs\MiKTeX\tex\latex\biblatex-apa\english-apa.lbx
 INPUT C:\Users\laras\AppData\Local\Programs\MiKTeX\tex\latex\biblatex-apa\english-apa.lbx
@@ -292,6 +298,11 @@ INPUT C:\Users\laras\AppData\Local\Programs\MiKTeX\tex\latex\biblatex-apa\englis
 INPUT C:\Users\laras\AppData\Local\Programs\MiKTeX\tex\latex\biblatex\lbx\american.lbx
 INPUT C:\Users\laras\AppData\Local\Programs\MiKTeX\tex\latex\biblatex\lbx\english.lbx
 OUTPUT ProposalTA.bcf
+INPUT ProposalTA.bbl
+INPUT .\ProposalTA.bbl
+INPUT .\ProposalTA.bbl
+INPUT .\ProposalTA.bbl
+INPUT ProposalTA.bbl
 INPUT .\1 Halaman Judul.tex
 INPUT .\1 Halaman Judul.tex
 INPUT 1 Halaman Judul.tex
@@ -341,7 +352,27 @@ INPUT C:\Users\laras\AppData\Local\Programs\MiKTeX\fonts\tfm\public\cm\cmr6.tfm
 INPUT .\3a Deklarasi Penggunaan AI.tex
 INPUT .\3a Deklarasi Penggunaan AI.tex
 INPUT 3a Deklarasi Penggunaan AI.tex
+INPUT C:\Users\laras\AppData\Local\Programs\MiKTeX\fonts\tfm\public\cm\cmmi10.tfm
+INPUT C:\Users\laras\AppData\Local\Programs\MiKTeX\fonts\tfm\public\cm\cmsy10.tfm
+INPUT C:\Users\laras\AppData\Local\Programs\MiKTeX\fonts\tfm\public\cm\cmex10.tfm
+INPUT C:\Users\laras\AppData\Local\Programs\MiKTeX\fonts\tfm\public\amsfonts\symbols\msam10.tfm
+INPUT C:\Users\laras\AppData\Local\Programs\MiKTeX\fonts\tfm\public\amsfonts\symbols\msbm10.tfm
+INPUT C:\Users\laras\AppData\Local\Programs\MiKTeX\fonts\tfm\public\cm\cmr10.tfm
 INPUT .\6 Daftar Isi.tex
 INPUT .\6 Daftar Isi.tex
 INPUT 6 Daftar Isi.tex
+INPUT .\ProposalTA.toc
+INPUT .\ProposalTA.toc
+INPUT ProposalTA.toc
 OUTPUT ProposalTA.toc
+INPUT .\Bab I - Pendahuluan.tex
+INPUT .\Bab I - Pendahuluan.tex
+INPUT Bab I - Pendahuluan.tex
+INPUT .\images\Diagram_Metodologi_UCD.png
+INPUT .\images\Diagram_Metodologi_UCD.png
+INPUT .\images\Diagram_Metodologi_UCD.png
+INPUT ProposalTA.aux
+INPUT .\ProposalTA.out
+INPUT .\ProposalTA.out
+INPUT ProposalTA.run.xml
+OUTPUT ProposalTA.run.xml

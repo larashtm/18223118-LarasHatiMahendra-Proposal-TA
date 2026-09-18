@@ -1,0 +1,385 @@
+% $ biblatex auxiliary file $
+% $ biblatex bbl format version 3.3 $
+% Do not modify the above lines!
+%
+% This is an auxiliary file used by the 'biblatex' package.
+% This file may safely be deleted. It will be recreated by
+% biber as required.
+%
+\begingroup
+\makeatletter
+\@ifundefined{ver@biblatex.sty}
+  {\@latex@error
+     {Missing 'biblatex' package}
+     {The bibliography requires the 'biblatex' package.}
+      \aftergroup\endinput}
+  {}
+\endgroup
+
+
+\refsection{0}
+  \datalist[entry]{apa/apasortcite//global/global/global}
+    \entry{anggraini2024}{article}{}{}
+      \true{moreauthor}
+      \true{morelabelname}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=053c80a74a17b60186781368b0273561}{%
+           family={Anggraini},
+           familyi={A\bibinitperiod},
+           given={D.},
+           giveni={D\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{70cb03a5ab09bbfe044d092b896dc482}
+      \strng{fullhash}{70cb03a5ab09bbfe044d092b896dc482}
+      \strng{fullhashraw}{70cb03a5ab09bbfe044d092b896dc482}
+      \strng{bibnamehash}{70cb03a5ab09bbfe044d092b896dc482}
+      \strng{authorbibnamehash}{70cb03a5ab09bbfe044d092b896dc482}
+      \strng{authornamehash}{70cb03a5ab09bbfe044d092b896dc482}
+      \strng{authorfullhash}{70cb03a5ab09bbfe044d092b896dc482}
+      \strng{authorfullhashraw}{70cb03a5ab09bbfe044d092b896dc482}
+      \field{sortinit}{A}
+      \field{sortinithash}{2f401846e2029bad6b3ecc16d50031e2}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Jurnal terkait rekomendasi makanan sehat}
+      \field{title}{Aplikasi rekomendasi makanan sehat berbasis \emph{mobile} dengan pendekatan \emph{user-centered design}}
+      \field{year}{2024}
+    \endentry
+    \entry{riskesdas2013}{report}{}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=967c07ae8a96ebca1f4b5abe3e77f30f}{%
+           family={{Badan Penelitian dan Pengembangan Kesehatan}},
+           familyi={B\bibinitperiod}}}%
+      }
+      \list{institution}{1}{%
+        {Kementerian Kesehatan Republik Indonesia}%
+      }
+      \list{location}{1}{%
+        {Jakarta}%
+      }
+      \strng{namehash}{967c07ae8a96ebca1f4b5abe3e77f30f}
+      \strng{fullhash}{967c07ae8a96ebca1f4b5abe3e77f30f}
+      \strng{fullhashraw}{967c07ae8a96ebca1f4b5abe3e77f30f}
+      \strng{bibnamehash}{967c07ae8a96ebca1f4b5abe3e77f30f}
+      \strng{authorbibnamehash}{967c07ae8a96ebca1f4b5abe3e77f30f}
+      \strng{authornamehash}{967c07ae8a96ebca1f4b5abe3e77f30f}
+      \strng{authorfullhash}{967c07ae8a96ebca1f4b5abe3e77f30f}
+      \strng{authorfullhashraw}{967c07ae8a96ebca1f4b5abe3e77f30f}
+      \field{extraname}{1}
+      \field{sortinit}{B}
+      \field{sortinithash}{d7095fff47cda75ca2589920aae98399}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{Riset Kesehatan Dasar ({Riskesdas}) 2013}
+      \field{type}{techreport}
+      \field{year}{2013}
+    \endentry
+    \entry{riskesdas2018}{report}{}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=967c07ae8a96ebca1f4b5abe3e77f30f}{%
+           family={{Badan Penelitian dan Pengembangan Kesehatan}},
+           familyi={B\bibinitperiod}}}%
+      }
+      \list{institution}{1}{%
+        {Kementerian Kesehatan Republik Indonesia}%
+      }
+      \list{location}{1}{%
+        {Jakarta}%
+      }
+      \strng{namehash}{967c07ae8a96ebca1f4b5abe3e77f30f}
+      \strng{fullhash}{967c07ae8a96ebca1f4b5abe3e77f30f}
+      \strng{fullhashraw}{967c07ae8a96ebca1f4b5abe3e77f30f}
+      \strng{bibnamehash}{967c07ae8a96ebca1f4b5abe3e77f30f}
+      \strng{authorbibnamehash}{967c07ae8a96ebca1f4b5abe3e77f30f}
+      \strng{authornamehash}{967c07ae8a96ebca1f4b5abe3e77f30f}
+      \strng{authorfullhash}{967c07ae8a96ebca1f4b5abe3e77f30f}
+      \strng{authorfullhashraw}{967c07ae8a96ebca1f4b5abe3e77f30f}
+      \field{extraname}{2}
+      \field{sortinit}{B}
+      \field{sortinithash}{d7095fff47cda75ca2589920aae98399}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{Laporan Nasional {Riskesdas} 2018}
+      \field{type}{techreport}
+      \field{year}{2018}
+    \endentry
+    \entry{ISO9241210}{manual}{}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=7058e4bd76f877c52b621c942b30613c}{%
+           family={{International Organization for Standardization}},
+           familyi={I\bibinitperiod}}}%
+      }
+      \list{location}{1}{%
+        {Geneva}%
+      }
+      \list{organization}{1}{%
+        {ISO}%
+      }
+      \strng{namehash}{7058e4bd76f877c52b621c942b30613c}
+      \strng{fullhash}{7058e4bd76f877c52b621c942b30613c}
+      \strng{fullhashraw}{7058e4bd76f877c52b621c942b30613c}
+      \strng{bibnamehash}{7058e4bd76f877c52b621c942b30613c}
+      \strng{authorbibnamehash}{7058e4bd76f877c52b621c942b30613c}
+      \strng{authornamehash}{7058e4bd76f877c52b621c942b30613c}
+      \strng{authorfullhash}{7058e4bd76f877c52b621c942b30613c}
+      \strng{authorfullhashraw}{7058e4bd76f877c52b621c942b30613c}
+      \field{sortinit}{I}
+      \field{sortinithash}{8d291c51ee89b6cd86bf5379f0b151d8}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{{ISO} 9241-210:2010 Ergonomics of human-system interaction -- Part 210: Human-centred design for interactive systems}
+      \field{year}{2010}
+    \endentry
+    \entry{jonathan2025}{article}{}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=c1f80eddea77f14650a2062dda3eb15c}{%
+           family={Jonathan},
+           familyi={J\bibinitperiod}}}%
+      }
+      \strng{namehash}{c1f80eddea77f14650a2062dda3eb15c}
+      \strng{fullhash}{c1f80eddea77f14650a2062dda3eb15c}
+      \strng{fullhashraw}{c1f80eddea77f14650a2062dda3eb15c}
+      \strng{bibnamehash}{c1f80eddea77f14650a2062dda3eb15c}
+      \strng{authorbibnamehash}{c1f80eddea77f14650a2062dda3eb15c}
+      \strng{authornamehash}{c1f80eddea77f14650a2062dda3eb15c}
+      \strng{authorfullhash}{c1f80eddea77f14650a2062dda3eb15c}
+      \strng{authorfullhashraw}{c1f80eddea77f14650a2062dda3eb15c}
+      \field{sortinit}{J}
+      \field{sortinithash}{b2f54a9081ace9966a7cb9413811edb4}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Jurnal terkait meal planner mahasiswa}
+      \field{title}{Perancangan {UI}/{UX} \emph{meal planner} bagi mahasiswa dengan pendekatan \emph{user-centered}}
+      \field{year}{2025}
+    \endentry
+    \entry{wulandari2021}{article}{}{}
+      \true{moreauthor}
+      \true{morelabelname}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=94227c0ebaae237933d4c777a8a48e77}{%
+           family={Wulandari},
+           familyi={W\bibinitperiod},
+           given={D.\bibnamedelimi A.},
+           giveni={D\bibinitperiod\bibinitdelim A\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{632fb83eb180d48ab03ad5802a8d235e}
+      \strng{fullhash}{632fb83eb180d48ab03ad5802a8d235e}
+      \strng{fullhashraw}{632fb83eb180d48ab03ad5802a8d235e}
+      \strng{bibnamehash}{632fb83eb180d48ab03ad5802a8d235e}
+      \strng{authorbibnamehash}{632fb83eb180d48ab03ad5802a8d235e}
+      \strng{authornamehash}{632fb83eb180d48ab03ad5802a8d235e}
+      \strng{authorfullhash}{632fb83eb180d48ab03ad5802a8d235e}
+      \strng{authorfullhashraw}{632fb83eb180d48ab03ad5802a8d235e}
+      \field{sortinit}{W}
+      \field{sortinithash}{4315d78024d0cea9b57a0c6f0e35ed0d}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Jurnal terkait perancangan aplikasi stunting}
+      \field{title}{Penerapan \emph{user-centered design} pada aplikasi pemantauan stunting}
+      \field{year}{2021}
+    \endentry
+  \enddatalist
+  \datalist[entry]{apa/global//global/global/global}
+    \entry{anggraini2024}{article}{}{}
+      \true{moreauthor}
+      \true{morelabelname}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=053c80a74a17b60186781368b0273561}{%
+           family={Anggraini},
+           familyi={A\bibinitperiod},
+           given={D.},
+           giveni={D\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{70cb03a5ab09bbfe044d092b896dc482}
+      \strng{fullhash}{70cb03a5ab09bbfe044d092b896dc482}
+      \strng{fullhashraw}{70cb03a5ab09bbfe044d092b896dc482}
+      \strng{bibnamehash}{70cb03a5ab09bbfe044d092b896dc482}
+      \strng{authorbibnamehash}{70cb03a5ab09bbfe044d092b896dc482}
+      \strng{authornamehash}{70cb03a5ab09bbfe044d092b896dc482}
+      \strng{authorfullhash}{70cb03a5ab09bbfe044d092b896dc482}
+      \strng{authorfullhashraw}{70cb03a5ab09bbfe044d092b896dc482}
+      \field{sortinit}{A}
+      \field{sortinithash}{2f401846e2029bad6b3ecc16d50031e2}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Jurnal terkait rekomendasi makanan sehat}
+      \field{title}{Aplikasi rekomendasi makanan sehat berbasis \emph{mobile} dengan pendekatan \emph{user-centered design}}
+      \field{year}{2024}
+    \endentry
+    \entry{riskesdas2013}{report}{}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=967c07ae8a96ebca1f4b5abe3e77f30f}{%
+           family={{Badan Penelitian dan Pengembangan Kesehatan}},
+           familyi={B\bibinitperiod}}}%
+      }
+      \list{institution}{1}{%
+        {Kementerian Kesehatan Republik Indonesia}%
+      }
+      \list{location}{1}{%
+        {Jakarta}%
+      }
+      \strng{namehash}{967c07ae8a96ebca1f4b5abe3e77f30f}
+      \strng{fullhash}{967c07ae8a96ebca1f4b5abe3e77f30f}
+      \strng{fullhashraw}{967c07ae8a96ebca1f4b5abe3e77f30f}
+      \strng{bibnamehash}{967c07ae8a96ebca1f4b5abe3e77f30f}
+      \strng{authorbibnamehash}{967c07ae8a96ebca1f4b5abe3e77f30f}
+      \strng{authornamehash}{967c07ae8a96ebca1f4b5abe3e77f30f}
+      \strng{authorfullhash}{967c07ae8a96ebca1f4b5abe3e77f30f}
+      \strng{authorfullhashraw}{967c07ae8a96ebca1f4b5abe3e77f30f}
+      \field{extraname}{1}
+      \field{sortinit}{B}
+      \field{sortinithash}{d7095fff47cda75ca2589920aae98399}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{Riset Kesehatan Dasar ({Riskesdas}) 2013}
+      \field{type}{techreport}
+      \field{year}{2013}
+    \endentry
+    \entry{riskesdas2018}{report}{}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=967c07ae8a96ebca1f4b5abe3e77f30f}{%
+           family={{Badan Penelitian dan Pengembangan Kesehatan}},
+           familyi={B\bibinitperiod}}}%
+      }
+      \list{institution}{1}{%
+        {Kementerian Kesehatan Republik Indonesia}%
+      }
+      \list{location}{1}{%
+        {Jakarta}%
+      }
+      \strng{namehash}{967c07ae8a96ebca1f4b5abe3e77f30f}
+      \strng{fullhash}{967c07ae8a96ebca1f4b5abe3e77f30f}
+      \strng{fullhashraw}{967c07ae8a96ebca1f4b5abe3e77f30f}
+      \strng{bibnamehash}{967c07ae8a96ebca1f4b5abe3e77f30f}
+      \strng{authorbibnamehash}{967c07ae8a96ebca1f4b5abe3e77f30f}
+      \strng{authornamehash}{967c07ae8a96ebca1f4b5abe3e77f30f}
+      \strng{authorfullhash}{967c07ae8a96ebca1f4b5abe3e77f30f}
+      \strng{authorfullhashraw}{967c07ae8a96ebca1f4b5abe3e77f30f}
+      \field{extraname}{2}
+      \field{sortinit}{B}
+      \field{sortinithash}{d7095fff47cda75ca2589920aae98399}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{Laporan Nasional {Riskesdas} 2018}
+      \field{type}{techreport}
+      \field{year}{2018}
+    \endentry
+    \entry{ISO9241210}{manual}{}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=7058e4bd76f877c52b621c942b30613c}{%
+           family={{International Organization for Standardization}},
+           familyi={I\bibinitperiod}}}%
+      }
+      \list{location}{1}{%
+        {Geneva}%
+      }
+      \list{organization}{1}{%
+        {ISO}%
+      }
+      \strng{namehash}{7058e4bd76f877c52b621c942b30613c}
+      \strng{fullhash}{7058e4bd76f877c52b621c942b30613c}
+      \strng{fullhashraw}{7058e4bd76f877c52b621c942b30613c}
+      \strng{bibnamehash}{7058e4bd76f877c52b621c942b30613c}
+      \strng{authorbibnamehash}{7058e4bd76f877c52b621c942b30613c}
+      \strng{authornamehash}{7058e4bd76f877c52b621c942b30613c}
+      \strng{authorfullhash}{7058e4bd76f877c52b621c942b30613c}
+      \strng{authorfullhashraw}{7058e4bd76f877c52b621c942b30613c}
+      \field{sortinit}{I}
+      \field{sortinithash}{8d291c51ee89b6cd86bf5379f0b151d8}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{{ISO} 9241-210:2010 Ergonomics of human-system interaction -- Part 210: Human-centred design for interactive systems}
+      \field{year}{2010}
+    \endentry
+    \entry{jonathan2025}{article}{}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=c1f80eddea77f14650a2062dda3eb15c}{%
+           family={Jonathan},
+           familyi={J\bibinitperiod}}}%
+      }
+      \strng{namehash}{c1f80eddea77f14650a2062dda3eb15c}
+      \strng{fullhash}{c1f80eddea77f14650a2062dda3eb15c}
+      \strng{fullhashraw}{c1f80eddea77f14650a2062dda3eb15c}
+      \strng{bibnamehash}{c1f80eddea77f14650a2062dda3eb15c}
+      \strng{authorbibnamehash}{c1f80eddea77f14650a2062dda3eb15c}
+      \strng{authornamehash}{c1f80eddea77f14650a2062dda3eb15c}
+      \strng{authorfullhash}{c1f80eddea77f14650a2062dda3eb15c}
+      \strng{authorfullhashraw}{c1f80eddea77f14650a2062dda3eb15c}
+      \field{sortinit}{J}
+      \field{sortinithash}{b2f54a9081ace9966a7cb9413811edb4}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Jurnal terkait meal planner mahasiswa}
+      \field{title}{Perancangan {UI}/{UX} \emph{meal planner} bagi mahasiswa dengan pendekatan \emph{user-centered}}
+      \field{year}{2025}
+    \endentry
+    \entry{wulandari2021}{article}{}{}
+      \true{moreauthor}
+      \true{morelabelname}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=94227c0ebaae237933d4c777a8a48e77}{%
+           family={Wulandari},
+           familyi={W\bibinitperiod},
+           given={D.\bibnamedelimi A.},
+           giveni={D\bibinitperiod\bibinitdelim A\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{632fb83eb180d48ab03ad5802a8d235e}
+      \strng{fullhash}{632fb83eb180d48ab03ad5802a8d235e}
+      \strng{fullhashraw}{632fb83eb180d48ab03ad5802a8d235e}
+      \strng{bibnamehash}{632fb83eb180d48ab03ad5802a8d235e}
+      \strng{authorbibnamehash}{632fb83eb180d48ab03ad5802a8d235e}
+      \strng{authornamehash}{632fb83eb180d48ab03ad5802a8d235e}
+      \strng{authorfullhash}{632fb83eb180d48ab03ad5802a8d235e}
+      \strng{authorfullhashraw}{632fb83eb180d48ab03ad5802a8d235e}
+      \field{sortinit}{W}
+      \field{sortinithash}{4315d78024d0cea9b57a0c6f0e35ed0d}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Jurnal terkait perancangan aplikasi stunting}
+      \field{title}{Penerapan \emph{user-centered design} pada aplikasi pemantauan stunting}
+      \field{year}{2021}
+    \endentry
+  \enddatalist
+\endrefsection
+\endinput
+

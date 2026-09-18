@@ -1,23 +1,22 @@
 # Fdb version 4
-["biber ProposalTA"] 1789682116.97705 "ProposalTA.bcf" "ProposalTA.bbl" "ProposalTA" 1789683111.97901 0
-  "ProposalTA.bcf" 1789683109 134354 90c496d7e8ce289429c11e4c322140ed "xelatex"
-  "daftar-pustaka.bib" 1789675976 8711 f9b875cb6bb197d8ada76b64c7b8941d ""
+["biber ProposalTA"] 1789726086.907 "ProposalTA.bcf" "ProposalTA.bbl" "ProposalTA" 1789738568.5354 0
+  "ProposalTA.bcf" 1789738567 133950 9da4e1dc437d0ec2a88edc40c236e060 "xelatex"
   (generated)
   "ProposalTA.bbl"
   "ProposalTA.blg"
   (rewritten before read)
-["xdvipdfmx"] 1789683110.27035 "ProposalTA.xdv" "ProposalTA.pdf" "ProposalTA" 1789683111.99219 0
-  "ProposalTA.xdv" 1789683109 179248 3b2124c34cfc8b6f197de0b37d0082d3 "xelatex"
+["xdvipdfmx"] 1789738568.00986 "ProposalTA.xdv" "ProposalTA.pdf" "ProposalTA" 1789738568.54469 0
+  "ProposalTA.xdv" 1789738567 180452 4741c66fc7bdf97a0ce7f79b27ee2099 "xelatex"
   (generated)
   "ProposalTA.pdf"
   (rewritten before read)
-["xelatex"] 1789683103.22358 "c:/Users/laras/Downloads/Proposal-TA-template-v2-APA/18223118-LarasHatiMahendra-Proposal-TA/ProposalTA.tex" "ProposalTA.xdv" "ProposalTA" 1789683111.97943 0
-  "1 Halaman Judul.tex" 1789677967 816 b029e29bcaba92c220fe84df6f960c49 ""
-  "2 Lembar Pengesahan.tex" 1789680228 1294 d63d03b81dc188a83a4a247249c47a8f ""
+["xelatex"] 1789738563.53067 "c:/Users/laras/Downloads/Proposal-TA-template-v2-APA/18223118-LarasHatiMahendra-Proposal-TA/ProposalTA.tex" "ProposalTA.xdv" "ProposalTA" 1789738568.53568 0
+  "1 Halaman Judul.tex" 1789714459 818 efb4f16d12afd68f4aeff75115f20814 ""
+  "2 Lembar Pengesahan.tex" 1789714459 1313 dca11c94d2042dc7c9b6c42b89f5f16a ""
   "3 Pernyataan Orisinalitas.tex" 1789555486 987 fde832b92bbc9ca21e79c5924de2dcc9 ""
   "3a Deklarasi Penggunaan AI.tex" 1789679228 1534 700407fc6a4b05614d4b914d68828de8 ""
   "6 Daftar Isi.tex" 1789355409 298 1602732d64c277c405934224c9507c2a ""
-  "Bab I - Pendahuluan.tex" 1789683108 13099 dca447a8fac5afa0b1c9fee32c5fbaab ""
+  "Bab I - Pendahuluan.tex" 1789738562 14150 fdd1d1c4a6cc826e825851f3770e6017 ""
   "C:/Users/laras/AppData/Local/MiKTeX/miktex/data/le/xetex/xelatex.fmt" 1789551076 27176672 bc0836e67157513f27249538f0cd529f ""
   "C:/Users/laras/AppData/Local/Programs/MiKTeX/fonts/tfm/adobe/zapfding/pzdr.tfm" 1136747054 1528 7e12f4c0fcf5a072cebdcfbfc610f54c ""
   "C:/Users/laras/AppData/Local/Programs/MiKTeX/fonts/tfm/public/amsfonts/cmextra/cmex7.tfm" 1233951848 1004 54797486969f23fa377b128694d548df ""
@@ -165,14 +164,13 @@
   "C:/Users/laras/AppData/Local/Programs/MiKTeX/tex/latex/url/url.sty" 1388490452 12796 8edb7d69a20b857904dd0ea757c14ec9 ""
   "C:/Users/laras/AppData/Local/Programs/MiKTeX/tex/latex/xcolor/xcolor.sty" 1729265222 55384 b454dec21c2d9f45ec0b793f0995b992 ""
   "C:/Users/laras/AppData/Local/Programs/MiKTeX/tex/latex/xkeyval/xkeyval.sty" 1656236919 4937 4ce600ce9bd4ec84d0250eb6892fcf4f ""
-  "ProposalTA.aux" 1789683109 4037 2e0e06fa79d47a1b5041b9e40f52bf4b "xelatex"
-  "ProposalTA.bbl" 1789682125 16663 2d61700c8236988304ec55721e07d6ad "biber ProposalTA"
-  "ProposalTA.out" 1789683109 1357 449a8d0c81c74a4debbc7b5ac2ed1914 "xelatex"
-  "ProposalTA.run.xml" 1789683109 2508 5dcb7fc0ad1c32a0a8fdaf84f2a8207c "xelatex"
+  "ProposalTA.aux" 1789738567 1998 ca018080d061dd385bdac8199a06611b "xelatex"
+  "ProposalTA.bbl" 1789726091 486 76d65a242ec496c9b4361af646ff12cb "biber ProposalTA"
+  "ProposalTA.out" 1789738567 1239 915910efe9891ee9651177b93f1c179e "xelatex"
+  "ProposalTA.run.xml" 1789738567 2508 5dcb7fc0ad1c32a0a8fdaf84f2a8207c "xelatex"
   "ProposalTA.tex" 1789682106 1580 dd20e1ae30ffcca0fc08c610909e52b3 ""
-  "ProposalTA.toc" 1789683109 1019 0477ddc6784c8f341bf9cfd912c8b139 "xelatex"
+  "ProposalTA.toc" 1789738567 963 ff0989a1500f383a1b2cc009067b594c "xelatex"
   "c:/Users/laras/Downloads/Proposal-TA-template-v2-APA/18223118-LarasHatiMahendra-Proposal-TA/ProposalTA.tex" 1789682106 1580 dd20e1ae30ffcca0fc08c610909e52b3 ""
-  "images/Diagram_Metodologi_UCD.png" 1789640027 175974 2eb2a8ef56dd8d1efeb69ebbf8461a4a ""
   "images/ganesha.jpg" 1789355409 204312 5d8c52e248340399e87eea2dd3141700 ""
   "ta-sti.cls" 1789355409 7899 ee7f890e40043b1c62b2d3d3e4877a85 ""
   (generated)

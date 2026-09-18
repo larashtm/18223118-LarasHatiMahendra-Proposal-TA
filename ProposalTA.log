@@ -1,4 +1,4 @@
-This is XeTeX, Version 3.141592653-2.6-0.999997 (MiKTeX 25.12) (preloaded format=xelatex 2026.9.16)  18 SEP 2026 08:52
+This is XeTeX, Version 3.141592653-2.6-0.999997 (MiKTeX 25.12) (preloaded format=xelatex 2026.9.16)  18 SEP 2026 20:37
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -1304,14 +1304,9 @@ Package datetime2 Warning: Region `bahasai' has ignored
 
 
 
-]) (2 Lembar Pengesahan.tex) (3 Pernyataan Orisinalitas.tex [1
+]) (2 Lembar Pengesahan.tex
+LaTeX Font Info:    Trying to load font information for U+msa on input line 22.
 
-]
-Underfull \hbox (badness 10000) in paragraph at lines 10--14
-
- []
-
-LaTeX Font Info:    Trying to load font information for U+msa on input line 15.
 
 (C:\Users\laras\AppData\Local\Programs\MiKTeX\tex/latex/amsfonts\umsa.fd
 File: umsa.fd 2013/01/14 v3.01 AMS symbols A
@@ -1319,7 +1314,7 @@ File: umsa.fd 2013/01/14 v3.01 AMS symbols A
 (C:\Users\laras\AppData\Local\Programs\MiKTeX\tex/latex/microtype\mt-msa.cfg
 File: mt-msa.cfg 2006/02/04 v1.1 microtype config. file: AMS symbols (a) (RS)
 )
-LaTeX Font Info:    Trying to load font information for U+msb on input line 15.
+LaTeX Font Info:    Trying to load font information for U+msb on input line 22.
 
 
 (C:\Users\laras\AppData\Local\Programs\MiKTeX\tex/latex/amsfonts\umsb.fd
@@ -1332,7 +1327,14 @@ File: mt-msb.cfg 2005/06/01 v1.0 microtype config. file: AMS symbols (b) (RS)
 File: mt-cmr.cfg 2013/05/19 v2.2 microtype config. file: Computer Modern Roman 
 (RS)
 ))
-(3a Deklarasi Penggunaan AI.tex [2
+(3 Pernyataan Orisinalitas.tex [1
+
+]
+Underfull \hbox (badness 10000) in paragraph at lines 10--14
+
+ []
+
+) (3a Deklarasi Penggunaan AI.tex [2
 
 ]
 Overfull \hbox (1.89388pt too wide) in paragraph at lines 12--12
@@ -1393,19 +1395,27 @@ Bab I.
 
 
 
-] [2] [3]
-File: images/Diagram_Metodologi_UCD.png Graphic file (type bmp)
-<images/Diagram_Metodologi_UCD.png>
- [4]
-Overfull \hbox (1.52655pt too wide) in paragraph at lines 79--81
-\TU/TimesNewRoman(0)/m/n/12 pengguna (misalnya menjaga stamina selama puasa) da
-n menurunkannya men-
+] [2]
+Overfull \hbox (1.85274pt too wide) in paragraph at lines 28--30
+[]\TU/TimesNewRoman(0)/m/n/12 Berdasarkan rumusan masalah yang dijelaskan pada 
+bagian sebelumnya, tujuan akhir
  []
 
-[5]) [6] [7
+[3]
+Overfull \hbox (0.86221pt too wide) in paragraph at lines 47--49
+\TU/TimesNewRoman(0)/m/n/12 sumber daya (\TU/TimesNewRoman(0)/m/it/12 resources
+\TU/TimesNewRoman(0)/m/n/12 ), serta lingkungan (\TU/TimesNewRoman(0)/m/it/12 e
+nvironment\TU/TimesNewRoman(0)/m/n/12 ) (Geis & Tesch, 2019,
+ []
+
+[4] [5]) [6]
+
+LaTeX Warning: Empty bibliography on input line 43.
 
 
-]
+Package caption Warning: Unused \captionsetup[figure] on input line 223.
+See the caption package documentation for explanation.
+
 
 Package caption Warning: Unused \captionsetup[lstlisting] on input line 245.
 See the caption package documentation for explanation.
@@ -1420,18 +1430,18 @@ LaTeX2e <2025-11-01>
 L3 programming layer <2025-12-24>
  ***********
 Package rerunfilecheck Info: File `ProposalTA.out' has not changed.
-(rerunfilecheck)             Checksum: 449A8D0C81C74A4DEBBC7B5AC2ED1914;1357.
+(rerunfilecheck)             Checksum: 915910EFE9891EE9651177B93F1C179E;1239.
 Package logreq Info: Writing requests to 'ProposalTA.run.xml'.
 \openout1 = `ProposalTA.run.xml'.
 
  ) 
 Here is how much of TeX's memory you used:
- 32749 strings out of 402987
- 630396 string characters out of 5448524
- 1807169 words of memory out of 5000000
- 61089 multiletter control sequences out of 15000+600000
- 634482 words of font info for 91 fonts, out of 8000000 for 9000
+ 32496 strings out of 402987
+ 624541 string characters out of 5448524
+ 1806431 words of memory out of 5000000
+ 60835 multiletter control sequences out of 15000+600000
+ 637105 words of font info for 105 fonts, out of 8000000 for 9000
  1348 hyphenation exceptions out of 8191
- 90i,10n,141p,1205b,7223s stack positions out of 10000i,1000n,20000p,200000b,200000s
+ 90i,10n,141p,1569b,7223s stack positions out of 10000i,1000n,20000p,200000b,200000s
 
-Output written on ProposalTA.pdf (12 pages).
+Output written on ProposalTA.pdf (11 pages).
